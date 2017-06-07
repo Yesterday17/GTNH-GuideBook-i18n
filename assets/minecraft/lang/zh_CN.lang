@@ -5,7 +5,7 @@ gtnh.quest0.name=第一个夜晚
 gtnh.quest0.desc=你的首要任务是寻找食物，并为夜晚提供避难所。夜晚将是残酷的，因为这个模组包拥有困难版的黑暗环境。现在收集一些食物可能是一个好主意……
 
 #Quest_1.Where is the flint?
-gtnh.quest1.name=哪里有燧石？
+gtnh.quest1.name=燧石在哪里？
 gtnh.quest1.desc=你可能已经注意到了，当你收集沙砾的时候，没有一块燧石掉落……好吧，这里有一个……配方。查阅NEI中燧石的配方，并且做一些出来！
 
 #Quest_2.Sticks 'n Stones
@@ -17,12 +17,12 @@ gtnh.quest3.name=储存之日
 gtnh.quest3.desc=现在你有了3x3的工作台，是时候为你的物品准备一些存储空间了！用你的一些木头来做一个箱子，你将需要4个原木，4块木板和一个燧石。
 
 #Quest_4.Crafting time
-gtnh.quest4.name=合成时间到
+gtnh.quest4.name=合成时间到！
 gtnh.quest4.desc=是时候做一个3x3的合成环境了。用一些燧石和原木来制作吧！
 
 #Quest_5.Tools
 gtnh.quest5.name=基础工具
-gtnh.quest5.desc=现在你有了一个避难所，一个工作台和一个存储你物品的地方（箱子*n），你需要做些工具了。（虽然你很喜欢用你的麒麟臂撸树……）
+gtnh.quest5.desc=现在你有了一个避难所，一个工作台和一个存储你物品的地方(箱子*n)，你需要做些工具了。(虽然你很喜欢用你的麒麟臂撸树……)
 
 #Quest_6.You reap...
 gtnh.quest6.name=收获之时
@@ -34,7 +34,7 @@ gtnh.quest7.desc=如果你，机缘巧合下，真的完成了之前的任务，
 
 #Quest_8.Get that stone
 gtnh.quest8.name=得到石头
-gtnh.quest8.desc=看着你和你身上那闪闪发光的燧石镐！是时候去挖一些圆石了。（当然，也许你也可以试图改善一下这个泥土小屋……）
+gtnh.quest8.desc=看着你和你身上那闪闪发光的燧石镐！是时候去挖一些圆石了。(当然，也许你也可以试图改善一下这个泥土小屋……)
 
 #Quest_9.Fire, fire, Grandpa!
 gtnh.quest9.name=火！火！火！
@@ -42,7 +42,7 @@ gtnh.quest9.desc=是时候去烧一些东西了！虽然你不能在熔炉里烧
 
 #Quest_10.Rest in pieces
 gtnh.quest10.name=安息吧
-gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得一些肉吧！（是的，它们会掉落熟猪肉，现在可能看上去没有用……）
+gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得一些肉吧！(是的，它们会掉落熟猪肉，现在可能看上去没有用……)
 
 #Quest_11.Sharpness: Over... 5...
 gtnh.quest11.name=
