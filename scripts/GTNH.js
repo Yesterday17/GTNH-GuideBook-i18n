@@ -23,7 +23,7 @@ function process(content, option = true, enUS = false) {
 
                 ans += "#Quest_" + id + "." + data.questDatabase[i].name + "\n" + tmp + "\n";
                 data.questDatabase[i].name = "gtnh.quest" + id + ".name";
-                data.questDatabase[i].descriptionname = "gtnh.quest" + id + ".desc";
+                data.questDatabase[i].description = "gtnh.quest" + id + ".desc";
             })(format_questDatabase);
         }
         ans += "##################################Line##################################\n\n";

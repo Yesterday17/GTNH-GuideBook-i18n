@@ -1,48 +1,48 @@
 #################################Quests#################################
 
 #Quest_0.Your first night
-gtnh.quest0.name=
-gtnh.quest0.desc=
+gtnh.quest0.name=第一个夜晚
+gtnh.quest0.desc=你的首要任务是寻找食物，并为夜晚提供避难所。夜晚将是残酷的，因为这个模组包拥有困难版的黑暗环境。现在收集一些食物可能是一个好主意……
 
 #Quest_1.Where is the flint?
-gtnh.quest1.name=
-gtnh.quest1.desc=
+gtnh.quest1.name=哪里有燧石？
+gtnh.quest1.desc=你可能已经注意到了，当你收集沙砾的时候，没有一块燧石掉落……好吧，这里有一个……配方。查阅NEI中燧石的配方，并且做一些出来！
 
 #Quest_2.Sticks 'n Stones
-gtnh.quest2.name=
-gtnh.quest2.desc=
+gtnh.quest2.name=Sticks 'n Stones
+gtnh.quest2.desc=幸运的是，这本书有一盏内置的阅读灯。在等待夜晚结束的这段时间里，你很有可能会阅读这段文字。一旦你离开了你的避难所，出去收集一些沙砾和木头。请记住，你需要食物，所以你需要寻找潘马斯的菜园（并保存一些种子！）。
 
 #Quest_3.Storage for days
-gtnh.quest3.name=
-gtnh.quest3.desc=
+gtnh.quest3.name=储存之日
+gtnh.quest3.desc=现在你有了3x3的工作台，是时候为你的物品准备一些存储空间了！用你的一些木头来做一个箱子，你将需要4个原木，4块木板和一个燧石。
 
 #Quest_4.Crafting time
-gtnh.quest4.name=
-gtnh.quest4.desc=
+gtnh.quest4.name=合成时间到
+gtnh.quest4.desc=是时候做一个3x3的合成环境了。用一些燧石和原木来制作吧！
 
 #Quest_5.Tools
-gtnh.quest5.name=
-gtnh.quest5.desc=
+gtnh.quest5.name=基础工具
+gtnh.quest5.desc=现在你有了一个避难所，一个工作台和一个存储你物品的地方（箱子*n），你需要做些工具了。（虽然你很喜欢用你的麒麟臂撸树……）
 
 #Quest_6.You reap...
-gtnh.quest6.name=
-gtnh.quest6.desc=
+gtnh.quest6.name=收获之时
+gtnh.quest6.desc=你不想一直靠着书里的食物奖励过活，所以注意一下这个问题是很必要的。既然你已经做了一把锄头了，那就找个附近的水源然后种片田吧。让我们用木棍来换些胡萝卜，这样你就可以开始建造你的农场了。
 
 #Quest_7....what you sow
-gtnh.quest7.name=
-gtnh.quest7.desc=
+gtnh.quest7.name=种些什么
+gtnh.quest7.desc=如果你，机缘巧合下，真的完成了之前的任务，并且种下了我给你的胡萝卜，那真是极好的。同时，你应该找一些水果和蔬菜，并把它们做成种子，以增加你农场中产出食物的种类。
 
 #Quest_8.Get that stone
-gtnh.quest8.name=
-gtnh.quest8.desc=
+gtnh.quest8.name=得到石头
+gtnh.quest8.desc=看着你和你身上那闪闪发光的燧石镐！是时候去挖一些圆石了。（当然，也许你也可以试图改善一下这个泥土小屋……）
 
 #Quest_9.Fire, fire, Grandpa!
-gtnh.quest9.name=
-gtnh.quest9.desc=
+gtnh.quest9.name=火！火！火！
+gtnh.quest9.desc=是时候去烧一些东西了！虽然你不能在熔炉里烧得木炭，但你很快就会找到它的一些用处。
 
 #Quest_10.Rest in pieces
-gtnh.quest10.name=
-gtnh.quest10.desc=
+gtnh.quest10.name=安息吧
+gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得一些肉吧！（是的，它们会掉落熟猪肉，现在可能看上去没有用……）
 
 #Quest_11.Sharpness: Over... 5...
 gtnh.quest11.name=
