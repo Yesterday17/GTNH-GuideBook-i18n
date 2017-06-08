@@ -117,12 +117,12 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 #gtnh.quest28.desc=
 
 #Quest_29.Another fuel source
-#gtnh.quest29.name=
-#gtnh.quest29.desc=
+gtnh.quest29.name=另一种燃料
+gtnh.quest29.desc=褐煤和普通的煤是你必需的燃料来源。后者可以变成焦煤，这是一种优秀的燃料，以熔炼你的第一批矿石。
 
 #Quest_30.Copper
-#gtnh.quest30.name=
-#gtnh.quest30.desc=
+gtnh.quest30.name=铜
+gtnh.quest30.desc=你可以在Y轴高度5-60的地方找到铜矿或者黄铜矿，它们大多伴生有铁矿和黄铁矿。
 
 #Quest_31.Tin
 #gtnh.quest31.name=
@@ -137,8 +137,8 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 #gtnh.quest33.desc=
 
 #Quest_34.Aluminini...um...?
-#gtnh.quest34.name=
-#gtnh.quest34.desc=
+gtnh.quest34.name=铝……？
+gtnh.quest34.desc=不论这个字该怎么写，你会需要它的。它们大多出现在地表，试着在河里找一些吧。（可选任务）
 
 #Quest_35.Making bronze
 #gtnh.quest35.name=
@@ -1897,8 +1897,8 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 #gtnh.quest473.desc=
 
 #Quest_474.Upgrade 2.0
-#gtnh.quest474.name=
-#gtnh.quest474.desc=
+gtnh.quest474.name=获得升级 2.0
+gtnh.quest474.desc=找到铁、铜和锡矿。非常有趣……你怎么用燧石镐来挖掘它们？我有个主意， 把所有你用燧石镐开采的石头都给我，我会给你一个更好的镐头。
 
 #Quest_475.Upgrade #4: Upgrade Tier 5
 #gtnh.quest475.name=
@@ -1921,8 +1921,8 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 #gtnh.quest479.desc=
 
 #Quest_480.Malachite
-#gtnh.quest480.name=
-#gtnh.quest480.desc=
+gtnh.quest480.name=孔雀石
+gtnh.quest480.desc=另一种铜矿的来源是孔雀石，它可以在Y轴高度10-40之间被找到。这种矿脉含有更多的铁矿石变体，如“棕褐铁矿”，“黄褐铁矿”和“带状铁矿”。
 
 #Quest_481.Creosote Oil
 #gtnh.quest481.name=
@@ -3263,44 +3263,46 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 ##################################Line##################################
 
 #Tier 0 - It begins
-#gtnh.line0.name=
-#gtnh.line0.desc=
+gtnh.line0.name=第0层 - 开始
+gtnh.line0.desc=最基础的一层——第0层。这一章将会向你介绍这个模组包的一些基本内容。涵盖Mod：Vanilla, Pam's Harvestcraft。
 
 #Tier 0.5 - Stone Age
-#gtnh.line1.name=
-#gtnh.line1.desc=
+gtnh.line1.name=第0.5层 - 石器时代
+gtnh.line1.desc=这一章基本上是第0层的升级，将帮助你制造出你的第一台蒸汽机械。
 
 #Tier 1 - Steam
-#gtnh.line2.name=
-#gtnh.line2.desc=
+gtnh.line2.name=第1层 - 蒸汽
+gtnh.line2.desc=所有蒸汽机械的任务集合。
 
 #Tier 2 - 32 EU (LV)
-#gtnh.line3.name=
-#gtnh.line3.desc=
+gtnh.line3.name=第2层 - 32EU (低压)
+gtnh.line3.desc=这个模组包的第一个“电压”层级，事情变得越来越容易了……
 
 #Tier 3 - 128 EU (MV)
-#gtnh.line4.name=
-#gtnh.line4.desc=
+gtnh.line4.name=第3层 - 128EU (中压)
+gtnh.line4.desc=你的第二个电压层级，不要把不同电压等级的机器混用，否则你会后悔的。
 
 #Tier 4 - 512 EU (HV)
-#gtnh.line5.name=
-#gtnh.line5.desc=
+#TODO: Edit the translation here.
+gtnh.line5.name=第4层 - 512EU (高压)
+gtnh.line5.desc=Finally some power to work with. 这一层将帮助你准备到达遥远的行星，并收集更多的稀有资源来制造更先进的机器。
 
 #Tier 5 - 2048 EU (EV)
-#gtnh.line6.name=
-#gtnh.line6.desc=
+gtnh.line6.name=第5层 - 2048EU (超高压)
+gtnh.line6.desc=钛、易裂变能源、AE2。
 
 #Tier 6 and beyond
-#gtnh.line7.name=
-#gtnh.line7.desc=
+gtnh.line7.name=第6层 - 在此之后
+gtnh.line7.desc=最后一个常规的层将引导你走向远方……
 
 #Forestry and Farms
-#gtnh.line8.name=
-#gtnh.line8.desc=
+gtnh.line8.name=林业和农场
+gtnh.line8.desc=自动化农场以及……
 
 #Novice Thaumaturge
-#gtnh.line9.name=
-#gtnh.line9.desc=
+#Comments: +1s
+gtnh.line9.name=从零开始的神秘学生活
+gtnh.line9.desc=魔法即未来。这是伟大的成就，但与此同时也需要大量的工作。我将成为你的导师，按照我的指示，你一定成为一个伟大的膜法师的，像我一样(HP--)。
 
 #Adept Thaumaturgy
 #gtnh.line10.name=
@@ -3308,58 +3310,63 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 
 #Kaaami, Haaaami, ... HA!
 #gtnh.line11.name=
-#gtnh.line11.desc=
+gtnh.line11.desc=最终（魔法）的能源！
 
 #Alternative Magic
-#gtnh.line12.name=
-#gtnh.line12.desc=
+gtnh.line12.name=替代魔法
+gtnh.line12.desc=这是什么巫术？？？
 
 #Multiblock Goals
-#gtnh.line13.name=
-#gtnh.line13.desc=
+#TODO: 优化翻译
+gtnh.line13.name=多方块结构
+gtnh.line13.desc=这里包含了一系列多方块结构。您可以在相应层次之前构建多方块结构的几个部分。
 
 #Armors and Jetpacks
-#gtnh.line14.name=
-#gtnh.line14.desc=
+gtnh.line14.name=护甲&飞行背包
+gtnh.line14.desc=引导你制造护甲和飞行背包。
 
 #Cooking Farming Fishing
-#gtnh.line15.name=
-#gtnh.line15.desc=
+gtnh.line15.name=烹饪、农业、钓鱼
+gtnh.line15.desc=基本的烹饪以及更多更好的食物。
 
 #Transportation
-#gtnh.line16.name=
-#gtnh.line16.desc=
+#TODO: 改进翻译
+gtnh.line16.name=传输(Transportation)
+gtnh.line16.desc=各种意义上的传输。
 
 #Legendary Quests
-#gtnh.line17.name=
-#gtnh.line17.desc=
+gtnh.line17.name=传奇任务
+gtnh.line17.desc=一条传奇的任务线，充斥着困难的任务，昂贵的配方和潜在的危险。准备好了吗？
 
 #Legendary Tier X
-#gtnh.line18.name=
-#gtnh.line18.desc=
+gtnh.line18.name=传奇任务 X
+gtnh.line18.desc=一条传奇的任务线，充斥着困难的任务，昂贵的配方和潜在的危险。准备好了吗？
 
 #Legendary Infinity
-#gtnh.line19.name=
-#gtnh.line19.desc=
+#TODO: 改进翻译
+gtnh.line19.name=传奇任务 Infinity
+gtnh.line19.desc=一条传奇的任务线，充斥着困难的任务，昂贵的配方和潜在的危险。准备好了吗？
 
 #Paying the highest price
-#gtnh.line20.name=
-#gtnh.line20.desc=
+#TODO: 改进翻译
+gtnh.line20.name=付出最高的代价
+gtnh.line20.desc=当寻常的魔法已经不能满足的你时候，pay demons to do it for you！它的代价可能会吓倒一些人……但没有风险就没有乐趣！
 
 #More blood, more stuff
-#gtnh.line21.name=
-#gtnh.line21.desc=
+#TODO: 改进翻译
+gtnh.line21.name=更多的血液，更多的材料
+gtnh.line21.desc=进阶的血魔法？我的静脉感觉很奇怪……
 
 #They are coming...
-#gtnh.line22.name=
+gtnh.line22.name=他们正在靠近……
 #gtnh.line22.desc=
 
 #Kill all the things
-#gtnh.line23.name=
+gtnh.line23.name=碾碎它们
 #gtnh.line23.desc=
 
 #How to be(e)
-#gtnh.line24.name=
+gtnh.line24.name=如何养蜂
 #gtnh.line24.desc=
 
 #To grind, or not to grind
@@ -3367,6 +3374,6 @@ gtnh.quest10.desc=这是属于狩猎的时间！让我们杀一些猪来获得�
 #gtnh.line25.desc=
 
 #Reward Area
-#gtnh.line26.name=
-#gtnh.line26.desc=
+gtnh.line26.name=奖励区
+gtnh.line26.desc=升级你的战利品袋~
 
