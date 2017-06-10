@@ -3,7 +3,7 @@
 [**中文**](#)|[English](Readme.md)
 
 ## 概述  
-&emsp;&emsp;GTNH中的任务手册并不支持中文(连本地化都没有何来的中文可言23333)，但`BetterQuesting`Mod本身是支持本地化的。所以通过改造，理论上可以实现任务书的汉化，这也就是这个项目的目的。<br />
+&emsp;&emsp;[GTNH](https://github.com/GTNewHorizons/NewHorizons)中的任务手册并不支持中文(连本地化都没有何来的中文可言23333)，但`BetterQuesting`Mod本身是支持本地化的。所以通过改造，理论上可以实现任务书的汉化，这也就是这个项目的目的。<br />
 &emsp;&emsp;然而，虽然Mod支持，但模组包本身并不支持这一项功能，所以要经过一定的魔改（注意备份下述文件！）…… <br />
 &emsp;&emsp;**由于GTNH任务书的汉化量较大（700+的任务），因此希望有dalao能帮忙一起汉化……**<br />
 &emsp;&emsp;汉化过程中需要使用到Github的Pull Request进行文件的合并。<br />
