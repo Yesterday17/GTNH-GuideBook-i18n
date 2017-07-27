@@ -48,9 +48,87 @@ function process(content, option = true, enUS = false) {
     saveAs(new Blob([JSON.stringify(data, null, 4)], { type: "text/plain;charset=utf-8" }), "DefaultQuests.json");
 }
 
-var parse = function (option, enUS) {
+/**
+ * Compare two jsons and work out the difference.
+ * @param {*} former The former one.
+ * @param {*} latter The latter one.
+ */
+function compare(former, latter) {
+    var data_f = JSON.parse(former),
+        data_l = JSON.parse(latter),
+        f_quest = data_f.questDatabase,
+        l_quest = data_l.questDatabase,
+        f_line = data_f.questLines,
+        l_line = data_l.questLines,
+        ans = latter;
+
+    //Initalize ans
+    ans.questDatabase = [];
+    ans.questLines = [];
+
+    //Quests
+    (function (f, l) {
+        for (var i in f) {
+            for (var j in l) {
+                if (similiar(f[i], l[j], true)) {
+                    //ans.questDatabase.push(l[j]);
+                    console.log(f[i].name + "\n" + f[i].description);
+                    console.log(l[j].name + "\n" + l[j].description);
+                    break;
+                }
+            }
+        }
+    })(f_quest, l_quest);
+
+    //Lines
+    (function (f, l) {
+        for (var i in f) {
+            for (var j in l) {
+                if (similiar(f[i], l[j], false)) {
+                    console.log(f[i].name + "\n" + f[i].description);
+                    console.log(l[j].name + "\n" + l[j].description);
+                    break;
+                }
+            }
+        }
+    })(f_line, l_line);
+}
+
+/**
+ * Judge whether the two quests/lines are alike.
+ * @param {*} former The former one.
+ * @param {*} latter The latter one.
+ * @param {*} isQuest If the object is a quest.
+ */
+function similiar(former, latter, isQuest) {
+    var similarity = 0;
+
+    if (isQuest) {
+        if(former.name == latter.name){
+            similarity+=10;
+        }
+        if(former.description == latter.description){
+            similarity+=10;
+        }
+        if(former.icon.id == latter.icon.id){
+            similarity+=1;
+        }
+    }
+    else{
+        if(former.name == latter.name){
+            similarity+=10;
+        }
+        if(former.description == latter.description){
+            similarity+=10;
+        }
+    }
+
+    return similarity >= 12;
+}
+
+var init = function (addr, option, enUS){
     $.ajax({
-        url: "https://gist.githubusercontent.com/yesterday17/4762e953fbb281c7f3011b5d07ec2a8d/raw/0e037b7aba7c68c18a3436d5104010fed2a0c251/gistfile1.txt",
+        url: addr,
         type: 'GET'
     }).success(function (gistData) {
         process(gistData, option, enUS);
@@ -58,3 +136,21 @@ var parse = function (option, enUS) {
         console.error(e);
     });
 }
+
+var parse = function (option, enUS) {
+    init("https://raw.githubusercontent.com/GTNewHorizons/NewHorizons/1.4.1.1/config/betterquesting/DefaultQuests.json", option, enUS);
+};
+
+var update = function () {
+    $.ajax({
+        url: "https://raw.githubusercontent.com/GTNewHorizons/NewHorizons/1.4.1.1/config/betterquesting/DefaultQuests.json",
+        type: 'GET'
+    }).success(function (former) {
+        $.ajax({
+            url: "https://raw.githubusercontent.com/GTNewHorizons/NewHorizons/1.5.0.7/config/betterquesting/DefaultQuests.json",
+            type: 'GET'
+        }).success(function (latter) {
+            compare(former, latter);
+        });
+    });
+};
