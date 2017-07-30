@@ -137,8 +137,8 @@ var init = function (addr, option, enUS){
     });
 }
 
-var parse = function (option, enUS) {
-    init("https://raw.githubusercontent.com/GTNewHorizons/NewHorizons/1.4.1.1/config/betterquesting/DefaultQuests.json", option, enUS);
+var parse = function (version, option, enUS) {
+    init("https://raw.githubusercontent.com/GTNewHorizons/NewHorizons/" + version + "/config/betterquesting/DefaultQuests.json", option, enUS);
 };
 
 var update = function () {
