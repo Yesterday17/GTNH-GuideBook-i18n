@@ -1,0 +1,15 @@
+{
+  "name": "gtnh-i18n",
+  "version": "0.1.0",
+  "description": "A nodejs-based GTNH localization file creater.",
+  "scripts": {
+    "test": ""
+  },
+  "bin": {
+    "gtnh-i18n": "./gtnh.js",
+    "gtnh": "./gtnh.js"
+  },
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
