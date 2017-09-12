@@ -646,12 +646,12 @@ gtnh.quest160.name=第4阶 (Tier 4)
 gtnh.quest160.desc=照例是第一个机器外壳...
 
 #Quest_161.Paying the highest price
-gtnh.quest161.name=Paying the highest price
-gtnh.quest161.desc=When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others.\n\nIn tier 1 you only need to place the blood altar.
+gtnh.quest161.name=付出最沉重的代价 (Paying the highest price)
+gtnh.quest161.desc=当寻常的魔法已经无法满足需求时，你需要...一些更强大的东西。那即是鲜血献祭。它需要你的血，或者其他人的。\n\n在第一阶段你只需要放置血之祭坛即可。
 
 #Quest_162.Dimensional goal: Moon
-gtnh.quest162.name=Dimensional goal: Moon
-gtnh.quest162.desc=HV is the age where you should focus on reaching the Moon, as soon as possible. Since you will need titanium in large quantities. \n\nHint: more info will be found in the Space Race quest tab.
+gtnh.quest162.name=次元:月球 (Dimensional goal: Moon)
+gtnh.quest162.desc=高压(HV)是一个你应当专注于到达月球的时期，越快越好。因为你将会需要大量的钛。\n\n指引：更多信息将会出现在"太空竞赛"任务卡中。
 
 #Quest_163.I see everything
 gtnh.quest163.name=I see everything
@@ -918,24 +918,24 @@ gtnh.quest228.name=Bloody water
 gtnh.quest228.desc=By sacrificing some blood to the water spirits, they'll grant you some of their precious element.
 
 #Quest_229.Infused stones
-gtnh.quest229.name=Infused stones
-gtnh.quest229.desc=This whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?
+gtnh.quest229.name=蕴魔石 (Infused stones)
+gtnh.quest229.desc=这整个地方都充斥着魔法。不管你看向哪里，它都无处不在。你很好奇这些寻常的石头浸于浓郁的魔力中如此漫长一段时间后会发生什么。或许又到了挖矿时间了？
 
 #Quest_230.Your first wand
-gtnh.quest230.name=Your first wand
-gtnh.quest230.desc=You are sure that this place will give you all the answers you are looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
+gtnh.quest230.name=你的第一根法杖 (Your first wand)
+gtnh.quest230.desc=你确信这个地方会给你你想要的一切答案！想要继续下去，你需要某种东西解决这种叫"vis"的魔法能量。我想是时候做你的第一根法杖了。
 
 #Quest_231.Tome of knowledge
 gtnh.quest231.name=Tome of knowledge
 gtnh.quest231.desc=All the things you've discovered so far, you need to write them down. But you are lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!
 
 #Quest_232.Improving your wand
-gtnh.quest232.name=Improving your wand
-gtnh.quest232.desc=Your wand does a great job in storing and releasing vis as you please. However, those iron caps are... Weak. If you don't pay enough attention to it, it might hurt the node. Maybe you should try to improve it with caps made out of a more valuable material. Like.. gold, perhaps?
+gtnh.quest232.name=提升你的法杖 (Improving your wand)
+gtnh.quest232.desc=你的法杖在存储和释放魔力的时候表现得很好，就像你所期待的那样。然而，这些铁杖端...太弱了。如果你稍微一不注意，就可能伤害到灵气节点。或许你应该试着用由一种更昂贵的材料制成的杖端来提升你的法杖。比如...金，或许吧？
 
 #Quest_233.Getting shards
-gtnh.quest233.name=Getting shards
-gtnh.quest233.desc=Now that you found all six primal types of infused stone, you need to break those up in order to get the shards. The easiest way to do that, is to throw these stones in your Forge Hammer.
+gtnh.quest233.name=获取碎片 (Getting shards)
+gtnh.quest233.desc=现在你已经找到所有六种蕴魔石的原始形态了，你需要将它们打碎以获取碎片。最简单的方法就是，将这些石头扔进你的锻造锤里。
 
 #Quest_234.A "greater" wand
 gtnh.quest234.name=A "greater" wand
@@ -3801,15 +3801,15 @@ gtnh.quest948.desc=Wrought Iron will become very soon more important when you ha
 
 #Tier 0 - It begins
 gtnh.line0.name=第0阶 - 由此开始
-gtnh.line0.desc=第一层︰0阶。本章节将介绍基本这模块包的基本机制，包含︰原始MINECRAFT、潘马斯的丰收菜圃。
+gtnh.line0.desc=第一层︰0阶。本章节将介绍基本这模块包的基本机制，包含︰原始MINECRAFT、潘马斯的果园。
 
 #Tier 0.5 - Stone Age
 gtnh.line1.name=第0.5阶 - 石器时代
-gtnh.line1.desc=基本上，你在第0阶所有的进展---你完成的第一层。可以帮助你，直到你制作出你的第一台蒸汽机。
+gtnh.line1.desc=基本上，你在第0阶所有的进展---你完成的第一层，可以帮助你，直到你制作出你的第一台蒸汽机器。
 
 #Tier 1 - Steam
 gtnh.line2.name=第1阶 - 蒸汽
-gtnh.line2.desc=任务--为了所有基于蒸汽的机器。
+gtnh.line2.desc=任务--为了所有基于蒸汽运作的机器。
 
 #Tier 2 - 32 EU (LV)
 gtnh.line3.name=第2阶 - 32EU (LV)
@@ -3840,11 +3840,11 @@ gtnh.line9.name=林业和农场
 gtnh.line9.desc=自动化农场和更多...
 
 #Novice Thaumaturge
-gtnh.line10.name=新手术士
-gtnh.line10.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的巫师，就像我。
+gtnh.line10.name=新手神秘使
+gtnh.line10.desc=魔法的奥秘皆藏于此。卓越的成就，但也需要大量的工作。我将成为你的导师。照我的指导，你将成为一位伟大的奥术师，就像我。
 
 #Adept Thaumaturgy
-gtnh.line11.name=熟练的奇术师
+gtnh.line11.name=熟练的神秘使
 gtnh.line11.desc=囊括扭曲。
 
 #Kaaami, Haaaami, ... HA!
@@ -3852,7 +3852,7 @@ gtnh.line12.name=龟...派...气...功波！
 gtnh.line12.desc=终极的奥法力量！
 
 #Alternative Magic
-gtnh.line13.name=替代魔法
+gtnh.line13.name=另一种魔法
 gtnh.line13.desc=这是什么样的巫术！？
 
 #Multiblock Goals
@@ -3884,7 +3884,7 @@ gtnh.line20.name=传奇X
 gtnh.line20.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
 #Legendary Infinity
-gtnh.line21.name=无穷传奇
+gtnh.line21.name=传奇:无限
 gtnh.line21.desc=一个传奇且艰鉅的任务，昂贵的配方和危险的地点。准备好了吗？
 
 #Paying the highest price
@@ -3900,8 +3900,8 @@ gtnh.line24.name=他们来了...
 gtnh.line24.desc=我召唤的灵魂...超越了恶魔入侵。真正堕入黑魔法！
 
 #Kill all the things
-gtnh.line25.name=杀了所有的东西
-gtnh.line25.desc=这世界充满了污秽的东西。杀了他们提高你的声望。
+gtnh.line25.name=消灭一切
+gtnh.line25.desc=这世界充满了污秽的东西。消灭他们，提高你的声望。
 
 #How to be(e)
 gtnh.line26.name=人来疯(蜂)
