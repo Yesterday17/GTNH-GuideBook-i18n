@@ -3797,6 +3797,10 @@ gtnh.quest947.desc=A early game protection fence can mada out of punji sticks. I
 gtnh.quest948.name=Better than iron
 gtnh.quest948.desc=Wrought Iron will become very soon more important when you have a bit steel and able to build high pressure steam machines. The material is much harder then iron and you can make better tools with it too.\nTo make wrought Iron you need a furnace to smelt iron ingots down to wrough iron nuggets. With the compressor you can compress the nuggets to ingots.\n\nHint:\nCrushed or purified oredust can be smelt to iron nuggets directly.
 
+#Quest_949.Seed Bags
+gtnh.quest949.name=Seed Bags
+gtnh.quest949.desc=Finding some special "pams harvest craft" gardens can be very difficult. With your farmer coins you can buy some gardenbags.
+
 ##################################Line##################################
 
 #Tier 0 - It begins
