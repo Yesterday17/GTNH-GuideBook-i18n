@@ -1,4 +1,4 @@
-#################################Quests#################################
+#################################Quests#################################	
 
 #Quest_0.Your first night
 gtnh.quest0.name=第一个夜晚 (Your first night)
@@ -510,7 +510,7 @@ gtnh.quest126.desc=自从你开始磨粉，洗矿和离心矿石，你收集了�
 
 #Quest_127.Project red begging
 gtnh.quest127.name=红石计划请求 (Project red begging)
-gtnh.quest127.desc=首先，总共有三种类型的管道：空逻辑，加压和路由。\n空逻辑管道是最基础的一种，它们没有任何的逻辑行为。物品运输管道属于这种类型，它们用于制造或连接路由管道和加压管道。多准备一些物品运输管道是一个明智的选择\n\n路由管道是最高级的。它们可以相互通信，以便创建管道网络，并可用于非常复杂的任务。\n\n加压管道解释和使用起来太复杂了，你不会需要它们的，因为你可以用路由管道完成任何你想要做的任何事情。\n\n然而，为了控制路由管道的逻辑，你还会需要芯片。
+gtnh.quest127.desc=首先，总共有三种类型的管道：空逻辑，加压和路由。\n空逻辑管道是最基础的一种，它们没有任何的逻辑行为。物品运输管道属于这种类型，它们用于制造或连接路由管道和加压管道。多准备一些物品运输管道是一个明智的选择\n路由管道是最高级的。它们可以相互通信，以便创建管道网络，并可用于非常复杂的任务。\n加压管道解释和使用起来太复杂了，你不会需要它们的，因为你可以用路由管道完成任何你想要做的任何事情。\n然而，为了控制路由管道的逻辑，你还会需要芯片。
 
 #Quest_128.Ender not-so-IO
 gtnh.quest128.name=末影不是这种界面 (Ender not-so-IO)
@@ -559,7 +559,7 @@ gtnh.quest138.desc=...我们有饼干。
 
 #Quest_139.Luke, I'm your father
 gtnh.quest139.name=路克，我是你的父亲 (Luke, I'm your father)
-gtnh.quest139.desc=有了玄钢，你现在可以制作一套新的护甲了。它在开始的时候非常基础，但它以后可以升级以解锁强大的功能。
+gtnh.quest139.desc=有了玄钢，你现在可以制作一 套新的护甲了。它在开始的时候非常基础，但它以后可以升级以解锁强大的功能。
 
 #Quest_140.Dark steel tools
 gtnh.quest140.name=玄钢工具 (Dark steel tools)
@@ -650,11 +650,11 @@ gtnh.quest161.name=Paying the highest price
 gtnh.quest161.desc=When regular magic just isn't enough, you need something... stronger. Which is paid with blood. Your blood, and maybe others.\n\nIn tier 1 you only need to place the blood altar.
 
 #Quest_162.Dimensional goal: Moon
-gtnh.quest162.name=Dimensional goal: Moon
-gtnh.quest162.desc=HV is the age where you should focus on reaching the Moon, as soon as possible. Since you will need titanium in large quantities. \n\nHint: more info will be found in the Space Race quest tab.
+gtnh.quest162.name=目标：月球
+gtnh.quest162.desc=在HV阶段，你应该尽快登上月球。在月球上可以获得大量的钛。\n提示更多的信息你可以在太空竞赛标签中找到。
 
 #Quest_163.I see everything
-gtnh.quest163.name=I see everything
+gtnh.quest163.name=我看到的一切（I see everything）
 gtnh.quest163.desc=The inventory panel is an alternative to your (hopefully?) existing project red storage system. Just like project red, you have to connect every chest/barrel with an item conduit. In addition to that, you also have to install a "remote awareness" upgrade into every conduit side you want the panel to see.
 
 #Quest_164.Portable battery...
@@ -666,7 +666,7 @@ gtnh.quest165.name=Soul eater
 gtnh.quest165.desc=Wouldn't it be great to actually make use of the intelligence or abilities a certain creature has? For example: the ender-teleportation or brain capacity of a zombie for simple logic? (He doesn't use it anyway...) With this machine, you are able to bind a captured soul to an item, which can then be used in machines to improve their functionality.
 
 #Quest_166.A new alloy
-gtnh.quest166.name=A new alloy
+gtnh.quest166.name=新的合金（A new alloy）
 gtnh.quest166.desc=There are some... "Darker" uses for machines. Stuff that might be considered "magic". Anyway, for that you need a new alloy: Soularium.
 
 #Quest_167.Experience storage
@@ -1186,7 +1186,7 @@ gtnh.quest295.name=Essentia storage
 gtnh.quest295.desc=Sure, you could just go with gazillions of jars, but it's way more convenient to store essentia in a chest or barrel. Isn't it?
 
 #Quest_296.The basic elements
-gtnh.quest296.name=The basic elements
+gtnh.quest296.name=基础元素（The basic elements）
 gtnh.quest296.desc=Of course you know where and how to get the basic essentia types. Do you..?
 
 #Quest_297.Essentia transmission
@@ -1430,8 +1430,8 @@ gtnh.quest356.name=Shiny!
 gtnh.quest356.desc=What in the world is this? This is amazing! I need more of these! They will be an amazing containment material for the wormhole!
 
 #Quest_357.I'm hungry
-gtnh.quest357.name=I'm hungry
-gtnh.quest357.desc=What... I work a lot! So get me some food please.
+gtnh.quest357.name=我饿了
+gtnh.quest357.desc=我的工作很多！请拿点吃的给我。
 
 #Quest_358.It needs a power plug...
 gtnh.quest358.name=It needs a power plug...
@@ -2118,12 +2118,12 @@ gtnh.quest528.name=Only the Best: Cave
 gtnh.quest528.desc=On your way to awesome bees, you have to collect only the best traits available.
 
 #Quest_529.You're gonna hate this #5
-gtnh.quest529.name=You're gonna hate this #5
-gtnh.quest529.desc=The fifth item you'll need a lot of. For the microwave, the scanner, the precision laser engraver, etc.
+gtnh.quest529.name=你会非常讨厌这个 #5
+gtnh.quest529.desc=再制造微波炉、扫描仪和最重要的电路组装机的时候你会需要很多这个东西。
 
 #Quest_530.You're gonna hate this #6
-gtnh.quest530.name=You're gonna hate this #6
-gtnh.quest530.desc=The sixth item you'll need a lot of. For the scanner and the seismic prospector.
+gtnh.quest530.name=你会非常讨厌这个 #6
+gtnh.quest530.desc=在制造扫描仪和地震勘测仪的时候你会需要很多这个这个东西。
 
 #Quest_531.Scanning bees, crops and moooooore!
 gtnh.quest531.name=Scanning bees, crops and moooooore!
@@ -2162,20 +2162,20 @@ gtnh.quest539.name=Round and round and round...
 gtnh.quest539.desc=After purification of your ore dust, you can centrifuge it to get even more byproducts out of the dust.
 
 #Quest_540.A truly sharp saw blade
-gtnh.quest540.name=A truly sharp saw blade
-gtnh.quest540.desc=Combining cobalt brass and diamond dust makes a really sharp saw blade for your cutting machine.
+gtnh.quest540.name=真正锋利的锯片
+gtnh.quest540.desc=将钴黄铜和钻石粉组合在一起，你可以得到一片非常锋利的锯片。
 
 #Quest_541.A new alloy
-gtnh.quest541.name=A new alloy
-gtnh.quest541.desc=If you want to cut diamond blocks into plates, it's time to get a new alloy 'cobalt brass'.\nFirst you need to make brass out of zinc (only found in small ores or as a centrifuge byproduct from tin or tetrahedrite) and copper. Mix it with aluminium and cobalt dust (can be centrifuged from various materials) to get the cobalt brass dust.\n\nNow that you have come this far, we think that you are able to look up the ores that you need by yourself with the help of NEI and the ore mix spreadsheet.
+gtnh.quest541.name=新的合金
+gtnh.quest541.desc=如果你想把钻石块切割成板子，那么你需要获得一种新的合金“钴黄铜”了。\n首先需要准备一些锌粉（目前这个阶段只能通过贫瘠的矿石或者在洗矿厂洗通过锑，或者离心洗净的锡粉来获得它）和一些铜粉，将他们混合可以得到黄铜粉。 再将黄铜分和钴粉还有铝粉回合在一起就可以得到钴黄铜粉。\n\n现在你已经玩到这一步了，因此我认为你可以自己在NEI里面找到相应矿石的具体获得方法.
 
 #Quest_542.Water and electricity, sounds fun and safe right?
 gtnh.quest542.name=Water and electricity, sounds fun and safe right?
 gtnh.quest542.desc=Using the power of water and electricity you can get even more out of your dusts.
 
 #Quest_543.C9H8O4...NaCl...H2O...
-gtnh.quest543.name=C9H8O4...NaCl...H2O...
-gtnh.quest543.desc=Want to make some cetane-boosted diesel, plastic or some chemical dye? Then it's time to craft a chemical reactor.
+gtnh.quest543.name=复方乙烯水杨酸(C9H8O4)...氯化钠(NaCl)...水(H2O)...
+gtnh.quest543.desc=想制造一些高十六烷值柴油、塑料或者一些化学染料么？如果想的话就制造一台化学反应釜。
 
 #Quest_544.Compact? Or is it?
 gtnh.quest544.name=Compact? Or is it?
@@ -2190,36 +2190,36 @@ gtnh.quest546.name=嗨男爵，你的石油黑金现况如何？(Hello Baron, ho
 gtnh.quest546.desc=在你的旅程中看过些庞大的石油井。现在做台泵将这些黑金装进容器吧！石油可以用于柴油发电机、或者提炼其他原料。\n\n带一台柴油发电机为泵供电。(感谢科技进步，现在泵可以自动由上方输出。)\n\nDuring your travels you may have seen some of these huge oil wells. Now it's time to go make a pump and put this black gold into tanks. Oil can be burned in a diesel generator or be refined. \n\nBring a diesel generator with you to power the pump. (Thanks to the advancement of technology the pumping machine can auto output on top.)
 
 #Quest_547.Your oil is too Crude? Refine it!
-gtnh.quest547.name=Your oil is too Crude? Refine it!
-gtnh.quest547.desc=Burning oil in the diesel generator is a very inefficient way of producing power. Every bucket/cell of oil only gives you 20,000 EU. Time to try and refine it...
+gtnh.quest547.name=原油提纯。
+gtnh.quest547.desc=用原油做柴油发电机的燃料是一种非常低效率切浪费的事情（1桶原油燃烧后仅提供20,000EU的电量，）。是时候提纯原油了！
 
 #Quest_548.Light Sulfuric Fuel
-gtnh.quest548.name=Light Sulfuric Fuel
-gtnh.quest548.desc=The first step is to distill your oil into light sulfuric fuel, that has a burn value of 40,000 EU.
+gtnh.quest548.name=含硫轻燃油
+gtnh.quest548.desc=第一步是将你的燃油提炼成含硫轻燃油，这种燃料燃烧值比较低，1单位(1000mb)理论燃烧值仅有40,000EU。
 
 #Quest_549.Light fuel
-gtnh.quest549.name=Light fuel
-gtnh.quest549.desc=By adding hydrogen to sulfuric light fuel in a chemical reactor you can produce some light fuel with the very high burn value of 320,000 EU.\n\nThe remaining hydrogen sulfide cells can be used later to produce some sulfuric acid for your TNT/iTNT or acid batteries.
+gtnh.quest549.name=轻燃油
+gtnh.quest549.desc=在化学反应釜中通过氢气将硫化轻燃油转化成不含硫的轻燃油，这是一种燃烧值很高的燃料。1单位的轻燃油(1000mb)理论燃烧值有320,000EU。\n\n而剩下的硫化氢可以通过加水反应得到稀硫酸，稀硫酸在蒸馏得到硫酸。这可是很重要的化工原料，你可以使用硫酸来制备TNT或者灌装到电池内制作一次性电池。
 
 #Quest_550.H like Hydrogen... rest of the alphabet is too complicated...
-gtnh.quest550.name=H like Hydrogen... rest of the alphabet is too complicated...
-gtnh.quest550.desc=Centrifuge some brown or yellow limonite dust to get some hydrogen, or use an Electrolyser with some water to produce it in a fluid form.
+gtnh.quest550.name=H可能是氢…… 化学元素周期表其他部分太复杂了！
+gtnh.quest550.desc=用离心机离心黄褐铁矿石或者棕褐铁矿石来获得一些氢气，或者在电解机里面点解水也可以，不过可能比较费电。
 
 #Quest_551.Heavy Sulfuric fuel
-gtnh.quest551.name=Heavy Sulfuric fuel
-gtnh.quest551.desc=The second step is to distill your oil into heavy sulfuric fuel, that has a burn value of 40,000 EU.
+gtnh.quest551.name=含硫重燃油
+gtnh.quest551.desc=第一步是将你的燃油提炼成含硫重燃油，这种燃料燃烧值比较低，1单位(1000mb)理论燃烧值也仅有40,000EU。
 
 #Quest_552.Heavy fuel
-gtnh.quest552.name=Heavy fuel
-gtnh.quest552.desc=By adding hydrogen to sulfuric heavy fuel in a chemical reactor you can produce some heavy fuel with the burn value of 240,000 EU.\n\nThe remaining hydrogen sulfide cells can be used later to produce some sulfuric acid for your TNT/iTNT or acid batteries.
+gtnh.quest552.name=重燃油
+gtnh.quest552.desc=同样，含硫重燃油也可以在化学反应釜中和氢气反应得到不含硫的重燃油和硫化氢，脱硫的重燃油1单位(1000mb)的燃烧值也将提高到240,000EU。\n\n而剩下的硫化氢可以通过加水反应得到稀硫酸，稀硫酸在蒸馏得到硫酸。这可是很重要的化工原料，你可以使用硫酸来制备TNT或者灌装到电池内制作一次性电池。
 
 #Quest_553.Diesel fuel
-gtnh.quest553.name=Diesel fuel
-gtnh.quest553.desc=Mixing your light and heavy fuel together gives you some diesel.\nIt burns very well in the diesel generator with a burn value of 400,000 EU per cell.
+gtnh.quest553.name=柴油
+gtnh.quest553.desc=将5份轻燃油单元和1份重燃油单元放入搅拌机，你讲得到6份柴油单元。\n柴油是一种十分强大的燃料，1单位的柴油（1000mb）在柴油发电机中理论能提供400,000EU的电量！！！！当然这个值仅仅是理论值，在实际生产中会产生很多的损耗╮（╯＿╰）╭。
 
 #Quest_554.Hey DJ, Mix it!
-gtnh.quest554.name=Hey DJ, Mix it!
-gtnh.quest554.desc=The mixer is a very useful device. You can mix all kind of fluid and items. (Useful to prevent dust from falling to the ground when crafting.)
+gtnh.quest554.name=要搅拌点什么？（Hey DJ, Mix it!）
+gtnh.quest554.desc=搅拌机是非常有用的设备，他可以混合各种各样的液体或者固体. (比如说将轻燃油和重燃油混合成柴油)
 
 #Quest_555.N like nitrogen... Hide, alphabet strikes again!
 gtnh.quest555.name=N like nitrogen... Hide, alphabet strikes again!
@@ -2318,8 +2318,8 @@ gtnh.quest578.name=The carpenter
 gtnh.quest578.desc=The Carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.\n\nThe carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
 
 #Quest_579.Molten redstone?
-gtnh.quest579.name=Molten redstone?
-gtnh.quest579.desc=You heard that the carpenter needs some molten redstone for a few recipes. \nConverting redstone dust into a fluid requires a fluid extractor. Let's build one.
+gtnh.quest579.name=融化红石?
+gtnh.quest579.desc=你听说有些配方需要熔融红石，而得到熔融红石的方法就是使用流体提取机。好的！让我们来制作一台。
 
 #Quest_580.Thermionic fabricator
 gtnh.quest580.name=Thermionic fabricator
@@ -2647,7 +2647,7 @@ gtnh.quest660.desc=你的铁盾已经很老旧了。使用diamand plates制成�
 
 #Quest_661.Bow, arrows and quiver
 gtnh.quest661.name=弓，箭，与箭袋(Bow, arrows and quiver)
-gtnh.quest661.desc=哇，你的第一台手作机器做出了弓。你发现可以将弓放在武器字段。现在是时候做些箭和一个箭袋了。你最多可以放四组箭在你的箭袋中。开始狩猎吧。
+gtnh.quest661.desc=哇，你的第一台手作机器做出了弓。你发现可以将弓放在武器格子。现在是时候做些箭和一个箭袋了。你最多可以放四组箭在你的箭袋中。开始狩猎吧。
 
 #Quest_662.Basic arc furnace
 gtnh.quest662.name=基础电弧炉(Basic arc furnace)
@@ -2991,11 +2991,11 @@ gtnh.quest746.desc=因为芯片的生产，硅变成了更为重要的原料。�
 
 #Quest_747.Empty Circuit Board
 gtnh.quest747.name=高级电路零件(Diode)
-gtnh.quest747.desc=Good circuits需要高级电路零件(diodes)。有两种方法可以制造，用晶元或砷化镓(gallium arsenide)加上精制锡线缆。同时需要熔融玻璃。
+gtnh.quest747.desc=优质的电子电路板需要二极管。有两种方法可以制造，用晶元或砷化镓(gallium arsenide)加上精制锡线缆。同时需要熔融玻璃。
 
 #Quest_748.Empty Circuit Board
 gtnh.quest748.name=空的电路板(Empty Circuit Board)
-gtnh.quest748.desc=Good circuit boards需要木头纸浆跟胶水(refined glue)来制作酚醛树脂电路板，再加上金线缆就可以制成。
+gtnh.quest748.desc=优质的电子电路板需要木头纸浆跟精制胶水来制作酚醛树脂电路板，再加上金线缆就可以制成。
 
 #Quest_749.Are you Prepared for HV?
 gtnh.quest749.name=你准备好迈向HV了吗?(Are you Prepared for HV?)
@@ -3346,8 +3346,8 @@ gtnh.quest835.name=Resistor
 gtnh.quest835.desc=Every basic circuit needs two resistors to work
 
 #Quest_836.Gallium Arsenide
-gtnh.quest836.name=Gallium Arsenide
-gtnh.quest836.desc=The diode requires gallium arsenide and you may be wondering how to get gallium or arsenic this early in the game.\nYou can get gallium out of crushed zinc ore by using a thermal centrifuge. You can find the small ores in the Overworld or the full ores in the Nether at Y Level 80 - 210. To get cushed ore, you may need a Tinker's Construct tool with the Luck (Fortune) enchant on it.\nYou can get Arsenic from realgar small orea in the Nether at Y level 5 - 85. Centrifuge the dusts in a centrifuge.\nMix those two dusts in a mixer to get gallium arsenic dust.
+gtnh.quest836.name=砷化镓
+gtnh.quest836.desc=二极管需要砷化镓，你可能想知道在游戏早期要如何获得砷化镓。 \n你可以在热能离心机中离心粉碎的锌矿石来获得镓。 你能在主世界或者下届Y轴80-210这个范围内找到贫瘠的锌矿石，从而得到粉碎的锌矿, 你最好带着匠魂的稿子，并且在稿子上面附魔一个时运从而增加产量。\n在下界Y轴5-85的范围内你能找到贫瘠的雄黄矿石。使用离心机离心雄黄粉。\n吧镓粉和砷粉在搅拌机中混合在一起，你就得到砷化镓粉末了。
 
 #Quest_837.ILC and RAM
 gtnh.quest837.name=ILC and RAM
@@ -3362,8 +3362,8 @@ gtnh.quest839.name=Handle tiny piles like a K1ng
 gtnh.quest839.desc=Don't you hate to manually compress all those tiny piles ? Well, let me show you how to automate that. A combination of typefilter, chest buffer (or super buffer in HV) and packager frees you from that annoying task. The chestbuffer can hold up to 9 stacks of tiny piles and the super buffer can hold 256 stacks of tiny dusts, which is more than enough. You can set its mode with a screwdriver on the output side. Set it to 9 to export 9 tiny piles at a time and let the packager compress these into regular dusts.
 
 #Quest_840.Butane and Propane
-gtnh.quest840.name=Butane and Propane
-gtnh.quest840.desc=You can distill a lot of different gases out of your "refinery gases".\nMethane, butane, propane, helium and ethane.
+gtnh.quest840.name=丁烷和丙烷（Butane and Propane）
+gtnh.quest840.desc=你可以从你的“炼油气”中提取出很多不同的气体。\n甲烷、乙烷、丙烷、丁烷和氦气。
 
 #Quest_841.Tetranitromethane
 gtnh.quest841.name=Tetranitromethane
@@ -3406,40 +3406,40 @@ gtnh.quest850.name=Ethenone
 gtnh.quest850.desc=Hopefully you saved some sulfuric acid during your fuel production. Together with acetic acid you can make ethenone.\nCraft an advanced chemical reactor to get access to more advanced recipes.
 
 #Quest_851.Nitric Acid
-gtnh.quest851.name=Nitric Acid
-gtnh.quest851.desc=Nitric acid can be made out of water, oxygen and nitrogen dioxide.
+gtnh.quest851.name=硝酸（Nitric Acid）
+gtnh.quest851.desc=硝酸可以由水、氧气和二氧化氮组成
 
 #Quest_852.Acetic Acid
-gtnh.quest852.name=Acetic Acid
+gtnh.quest852.name=乙酸
 gtnh.quest852.desc=Acetic acid can be made out of oxygen and ethylene. Alternatively, it can be made out of biomass, wood vinegar or vinegar.
 
 #Quest_853.Nitrogen Dioxide
-gtnh.quest853.name=Nitrogen Dioxide
-gtnh.quest853.desc=To make nitrogen dioxide you need to combine oxygen gas and nitric oxide in a chemical reactor.
+gtnh.quest853.name=二氧化氮
+gtnh.quest853.desc=二氧化氮需要在化学反应釜中结合氧气和一氧化氮。
 
 #Quest_854.Ammonia
-gtnh.quest854.name=Ammonia
-gtnh.quest854.desc=Nitrogen and hydrogen... Ammonia.
+gtnh.quest854.name=氨
+gtnh.quest854.desc=氮和氢……得到氨。
 
 #Quest_855.Nitric Oxide
-gtnh.quest855.name=Nitric Oxide
-gtnh.quest855.desc=To make nitric oxide you need to combine oxygen and ammonia in a chemical reactor.
+gtnh.quest855.name=一氧化氮
+gtnh.quest855.desc=要制造一氧化氮你需要在化学反应釜中结合氧和氨。
 
 #Quest_856.1,1-Dimetylhydrazine
-gtnh.quest856.name=1,1-Dimetylhydrazine
+gtnh.quest856.name=二甲肼
 gtnh.quest856.desc=To make 1,1-dimethylhydrazine you need to combine some dimethylamine and chloramine in a chemical reactor.
 
 #Quest_857.Dimethylamine
-gtnh.quest857.name=Dimethylamine
-gtnh.quest857.desc=Combining ammonia and methanol in a chemical reactor produces some dimethylamine.
+gtnh.quest857.name=二甲胺
+gtnh.quest857.desc=在化学反应釜中让合成氨和甲醇反应得到二甲胺。
 
 #Quest_858.Chloramine
-gtnh.quest858.name=Chloramine
-gtnh.quest858.desc=Combining hypochlorous acid and ammonia in a chemical reactor produces some chloramine.
+gtnh.quest858.name=氯胺
+gtnh.quest858.desc=在化学反应釜中让次氯酸和氨反应得到氯胺。
 
 #Quest_859.Hypochlorous Acid
-gtnh.quest859.name=Hypochlorous Acid
-gtnh.quest859.desc=Hypochlorous acid requires water, chlorine and some mercury.
+gtnh.quest859.name=次氯酸
+gtnh.quest859.desc=次氯酸需要水、氯和一些汞。
 
 #Quest_860.Titanium finaly
 gtnh.quest860.name=总算，钛。(Titanium finaly)
@@ -3450,8 +3450,8 @@ gtnh.quest861.name=钨钢(Tungstensteel)
 gtnh.quest861.desc=下一阶段需要钨钢。在火星或者月球的石头灰里可以找到钨，将其和些钢粉混合，并将它融于3000K（需要镍铬合金线圈）的电力高炉。
 
 #Quest_862.Your first bone bow
-gtnh.quest862.name=Your first bone bow
-gtnh.quest862.desc=Since vanilla bows are only craftable in the assembling machine and mobs do not drop them very often you have to make a Tinkers bow. You could make it out of wood but bone would be much better. So craft the bow limbs out of bone and the bow string out of strings. The arrow that has the most durability is bone flint. It is much lighter but less durable than a regular arrow.\n\nYou can repair your bow the same way as all the other Tinkers tools. Arrows can be regained by repairing them or picking them up from the floor.
+gtnh.quest862.name=你的第一把骨弓
+gtnh.quest862.desc=由于普通的弓箭需要在组装机中制造，而且普通的小怪不会掉落（精英怪有几率掉落）。因此你需要一把可以长时间使用的弓。虽然可以用木头做，但是用骨头会好得多。因此用骨头做2个弓臂，用线作出弓弦。而箭头可以用骨头和燧石，它轻得多，但是可能耐久方面比不上普通的箭。\n修复弓的方式和修复其他匠魂工具一样，而箭则可以通过工具台或者直接从地上将箭捡起来的方式来恢复数量。
 
 #Quest_863.Bronze javelin
 gtnh.quest863.name=铜制标枪(Bronze javelin)
@@ -3722,8 +3722,8 @@ gtnh.quest929.name=Blood Altar Tier 6
 gtnh.quest929.desc=The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks out of demon souls shards.
 
 #Quest_930.Auto Mining
-gtnh.quest930.name=Auto Mining
-gtnh.quest930.desc=A miner in lv age wow. So this niffty machine will find ores fore you. Place up to two stacks of mining pipes in the right slots. This miner need 32 eu to work. With a 8 V Solar Pannel it works 4 times slover. The Miner searchen ores in a 16 block radius.
+gtnh.quest930.name=自动采矿机
+gtnh.quest930.desc=LV时代的自动采矿设备。所以这台漂亮的机器可以在你面前帮你挖出矿石。在机器的GUI的左侧防止两组挖矿管道。 这个设备需要32EU的功率。 使用8V的太阳能板就能让他工作，(With a 8 V Solar Pannel it works 4 times slover不知道什么意思). 这个设备会以自己为中心在16格的范围内搜索矿石。
 
 #Quest_931.Auto Mining Mv
 gtnh.quest931.name=Auto Mining Mv
