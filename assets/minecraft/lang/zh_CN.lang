@@ -3302,16 +3302,16 @@ gtnh.quest824.name=Oxygen Tanks
 gtnh.quest824.desc=The Light oxygen tank is an oxygen storage tank that can hold up to 90 units of air. It is used to provide a portable source of oxygen while in areas that do not have an oxygen source of their own.\n\nUsage:\nUp to two oxygen tanks can be worn at a time. To wear any type of oxygen tank, open your inventory and click on the Galacticraft tab at the top of the menu. Here you will see the available spots for your various types of equipment. Simply place your tank(s) in one of the slots with a grey picture of an oxygen tank. Other types of oxygen tanks are the medium oxygen tank, which holds twice the amount of oxygen as a light tank, and the heavy oxygen tank, which holds three times the amount of a light tank.
 
 #Quest_825.Copper Ore
-gtnh.quest825.name=Copper Ore
-gtnh.quest825.desc=Can be found between y levels 5 and 60 either as "Copper Ore" or "Chalcopyrite". Most of the time you'll find it together with  "Iron" and "Pyrite".
+gtnh.quest825.name=铜矿
+gtnh.quest825.desc=在Y轴5-60之间你能找到“铜矿石”或者“黄铜矿石”，一般的情况你还同时会发现“铁矿石”和“黄铁矿石”。
 
 #Quest_826.Iron Ore
-gtnh.quest826.name=Iron Ore
+gtnh.quest826.name=铁矿
 gtnh.quest826.desc=With your new bronze tools, you are able to mine most of the Overworld ores. I think you already found iron or magnetite. So bring me some ores and make some iron ingots out of them.
 
 #Quest_827.Rocket Fuel
-gtnh.quest827.name=Rocket Fuel
-gtnh.quest827.desc=For every flight the rocket needs some fuel. So refine some fuel and fill some fuel cannisters. 
+gtnh.quest827.name=火箭燃料
+gtnh.quest827.desc=火箭每次飞行都需要一些燃料，提炼一些火箭燃料并将它们灌入燃料罐中。
 
 #Quest_828.Oxygen Collector
 gtnh.quest828.name=Oxygen Collector
@@ -3342,8 +3342,8 @@ gtnh.quest834.name=Circuit Boards
 gtnh.quest834.desc=For every circuit you need a basic circuit board. Craft a coated circuit board and use copper wire to finish it.
 
 #Quest_835.Resistor
-gtnh.quest835.name=Resistor
-gtnh.quest835.desc=Every basic circuit needs two resistors to work
+gtnh.quest835.name=电阻（Resistor）
+gtnh.quest835.desc=每一个基础电路板都需要两个电阻！
 
 #Quest_836.Gallium Arsenide
 gtnh.quest836.name=砷化镓
@@ -3366,15 +3366,15 @@ gtnh.quest840.name=丁烷和丙烷（Butane and Propane）
 gtnh.quest840.desc=你可以从你的“炼油气”中提取出很多不同的气体。\n甲烷、乙烷、丙烷、丁烷和氦气。
 
 #Quest_841.Tetranitromethane
-gtnh.quest841.name=Tetranitromethane
+gtnh.quest841.name=四硝基甲烷
 gtnh.quest841.desc=Light fuel, bio diesel and diesel can be boosted by using tetranitromethane. Ethenone and nitric acid are required to make tetranitromethane in a chemical reactor.
 
 #Quest_842.Methane Gas
-gtnh.quest842.name=Methane Gas
+gtnh.quest842.name=沼气
 gtnh.quest842.desc=Methane gas with a burn value of 104,000 EU per cell can be burned in the gas turbine.
 
 #Quest_843.Methanol
-gtnh.quest843.name=Methanol
+gtnh.quest843.name=甲醇
 gtnh.quest843.desc=Methanol with a burn value of 84,000 EU per cell can be used to make biodiesel and other fluids.
 
 #Quest_844.Ethanol
@@ -3390,15 +3390,15 @@ gtnh.quest846.name=O like Oxygen
 gtnh.quest846.desc=Oxygen can be made in different ways. Centrifuge some brown an yellow lemonite dust, or electrolyze it out of water or various other oxygen-rich elements.
 
 #Quest_847.Ethylene
-gtnh.quest847.name=Ethylene
+gtnh.quest847.name=乙烯
 gtnh.quest847.desc=You can make ethylene out of ethanol and sulfuric acid in a chemical reactor or by distilling various gases (i.e. wood gas) in a distillery. Cracking naptha, fuels and gas with hydrogen or steam in the chemical reactor will work too.
 
 #Quest_848.Seed Oil
-gtnh.quest848.name=Seed Oil
+gtnh.quest848.name=种子油
 gtnh.quest848.desc=To make some bio diesel you need seed oil or fish oil and mix that with ethanol or methanol. Seeds give seed oil when placed in a fluid extractor.
 
 #Quest_849.Sodium Hydroxide
-gtnh.quest849.name=Sodium Hydroxide
+gtnh.quest849.name=氢氧化钠
 gtnh.quest849.desc=Make some sodium hydroxide. You can make it out of sodium (or out of salt water once you reach EV).\n\nThe by-product hydrogen can be burned in a gas turbine.
 
 #Quest_850.Ethenone
