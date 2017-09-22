@@ -898,16 +898,16 @@ gtnh.quest223.name=Railguns, what else
 gtnh.quest223.desc=Massive power, and a wonderful sound when they fire. I recommend to use upgrades to increase range and damage.
 
 #Quest_224.Strange things
-gtnh.quest224.name=Strange things
-gtnh.quest224.desc=You came across those weird trees, they seem to be more than just plants. You felt something... different. There is something going on, but you are not sure what exactly yet. But you're sure you'll find out very soon(tm).
+gtnh.quest224.name=千奇百怪
+gtnh.quest224.desc=你碰到的那些奇怪的树它们似乎不仅仅是植物那么简单。你感觉……有什么东西不一样，有一些事情正在发生，但是你还无法确定那到底是什么。但是你感觉肯定很快就会发现了！（There is something going on, but you are not sure what exactly yet. But you're sure you'll find out very soon(tm).）
 
 #Quest_225.Searching for answers
-gtnh.quest225.name=Searching for answers
-gtnh.quest225.desc=Last night you had a dream. A dimension, so strange and different, exactly like the sapling you found. You decided to go there and look for answers.\n\nFirst you need a portal crystal to open it up. And no, a diamond is not enough.
+gtnh.quest225.name=寻找答案
+gtnh.quest225.desc=昨天晚上你做了一个梦，另外的一个世界。和你所在的世界是如此的不一样，就像你找到的那颗小树苗一样。你决定去哪里寻找答案。首先你需要一个有能力打开异次元通道的水晶。不，如果仅仅是钻石是没有这个能力的！
 
 #Quest_226.See the unseen
-gtnh.quest226.name=See the unseen
-gtnh.quest226.desc=Everything is made of 6 primal aspects. Those aspects can be combined to form compound aspects, but in the end, there are only 6. Like the infused shards you found. You noticed that those shards start to vibrate when you bring them next to something that is made of the respective aspect. Maybe you can create a device to actually "scan" items, and reveal their compounds? This could be very useful later on.
+gtnh.quest226.name=看到你看不到的
+gtnh.quest226.desc=一切都是由6种基础元素组成。这6种元素可以组成更加复杂的元素，但是始终只有6种基础元素。就像被你找到的碎片一样，你发现当你把碎片靠近由它们组成的东西旁边时，它们就会开始震动。也许你可以靠着这种发现来制造一个可以“扫描”物品的工具，并显示出组成他们的元素。这在以后可能会非常有用
 
 #Quest_227.Tables to work on
 gtnh.quest227.name=Tables to work on
@@ -918,16 +918,16 @@ gtnh.quest228.name=Bloody water
 gtnh.quest228.desc=By sacrificing some blood to the water spirits, they'll grant you some of their precious element.
 
 #Quest_229.Infused stones
-gtnh.quest229.name=Infused stones
-gtnh.quest229.desc=This whole place here is filled with magic. No matter where you look at, it's just everywhere. You wonder what happens to regular stone if it's exposed to large amounts of magic for such a long time. Maybe it's time to go mining?
+gtnh.quest229.name=蕴魔石
+gtnh.quest229.desc=不管你在这个世界那个角落都会发现这里充满了魔法能量。你想知道普通的石头如果长时间暴露在这么高浓度的魔法能量中会发生什么有趣的变化。也许是时候去看看这个世界的矿物生成了！
 
 #Quest_230.Your first wand
-gtnh.quest230.name=Your first wand
-gtnh.quest230.desc=You are sure that this place will give you all the answers you are looking for! To continue, you need something to handle the magic energy called "vis". Guess it's time to craft your first wand.
+gtnh.quest230.name=你的第一个魔杖
+gtnh.quest230.desc=你确信在这个世界会找到你想要的答案。为了继续旅程，你需要一些道具来处理被称为"VIS"的魔法能量。你猜应该制作你的第一根魔杖了
 
 #Quest_231.Tome of knowledge
-gtnh.quest231.name=Tome of knowledge
-gtnh.quest231.desc=All the things you've discovered so far, you need to write them down. But you are lazy, and you have a wand, so why not try a magical way to "write down" your research? You wonder if you could enchant a book with your wand, so that it will keep track of your progress... You should try that on a bookshelf!
+gtnh.quest231.name=魔导手册
+gtnh.quest231.desc=到目前为止你所有的发现你都需要将他们记录下来，但是你很懒。不过你有一根魔杖，所以为什么不试着用一种很神奇的方式“写下”你的研究呢？你想知道你是否可以用你的魔杖施展魔法来变化出一本魔法书，这样他就能记录你的所有发现。你可以拿着魔杖对着书架施展魔法试一试。
 
 #Quest_232.Improving your wand
 gtnh.quest232.name=Improving your wand
@@ -966,12 +966,13 @@ gtnh.quest240.name=Essentia cooking
 gtnh.quest240.desc=In order to get essentia, you need to dissolve items. Obviously, you only want to dissolve those items you don't really need, and only those with essentia you need to craft things.
 
 #Quest_241.Not for soup
-gtnh.quest241.name=Not for soup
-gtnh.quest241.desc=At least not for edible soup, but for essentia slurry. Get yourself a Cauldron and give it a solid whack with your wand.
+gtnh.quest241.name=这可不是做汤的
+gtnh.quest241.desc=至少不是做能吃的汤的。拿着魔杖右键对着炼药锅来一记重击，会有神奇的事情发生。
+. Get yourself a Cauldron and give it a solid whack with your wand.
 
 #Quest_242.Balanced shards sdrahs decnalaB
-gtnh.quest242.name=Balanced shards sdrahs decnalaB
-gtnh.quest242.desc=By combining all six primal aspects in a crucible, you are able to make balanced shards. They can be ground up into "Salis Mundus", an absolutely crucial thing to have, trust me!
+gtnh.quest242.name=平衡碎片和世界盐（描述有出入需要确认一下）
+gtnh.quest242.desc=在神秘坩埚中把6中基本元素和元素碎片混合在一起，你就会得到平衡碎片。将平衡碎片磨碎后你可以得到“世界盐”，这绝对是很重要的一种物质，相信我！
 
 #Quest_243.Crystal clusters
 gtnh.quest243.name=Crystal clusters
@@ -1962,8 +1963,8 @@ gtnh.quest489.name=Better lunch bag
 gtnh.quest489.desc=Your lunch bag is now so abused and rather old so it's time to get something better. Let's craft a lunch box which can hold way more food.
 
 #Quest_490.Horseback riding
-gtnh.quest490.name=Horseback riding
-gtnh.quest490.desc=Are you ready for a small trip? With your new lunch box, saddle, lead and of course a horse we can start a small journey.
+gtnh.quest490.name=骑马
+gtnh.quest490.desc=你准备好出去旅行了么？带着你的便当、马鞍、绳栓，哦当然还需要一匹马！好了我们可以开始一段旅程了！
 
 #Quest_491.Sleeping outside
 gtnh.quest491.name=Sleeping outside
@@ -2310,80 +2311,80 @@ gtnh.quest576.name=Working table 2.0
 gtnh.quest576.desc=A manual crafting table which remembers the last nine used recipes. Left click one of the recipes shown in the right-hand side to automatically fill in the crafting grid. Right-click to lock a memorized recipe and prevent a newer recipe from bumping it off.\n\nResources need to go into the internal inventory. The crafting matrix is only a visual representation.
 
 #Quest_577.Forestry core block
-gtnh.quest577.name=Forestry core block
-gtnh.quest577.desc=This sturdy casing is the basis for almost all machines in Forestry, essentially being the forestry equivalent of a machine casing.
+gtnh.quest577.name=Forestry 核心方块
+gtnh.quest577.desc=坚固部件几乎是所有农业方块的基础，你可以理解为他是农业MOD里面的机械外壳！
 
 #Quest_578.The carpenter
-gtnh.quest578.name=The carpenter
-gtnh.quest578.desc=The Carpenter is similar to an automatic crafting table. It has an item input slot and a storage slot for the recipes. Some recipes need an additional fluid like water, creosote, honey or molten redstone. With the carpenter you can make farmblocks, woven backpacks, bee and tree analysers and many more.\n\nThe carpenter needs power to work. You can use a GT cable or a battery box to connect to the machine or make some forestry, railcraft or buildcraft RF engines.
+gtnh.quest578.name=木工机
+gtnh.quest578.desc=木工机类似一个自动化的工作台，它有一个物品输入槽、配方储存槽和产物输出槽。一些配方需要一些额外的液体，比如说水、牛奶、蜂蜜或者熔融红石。使用木工机你可以制作农场方块、编织更好的背包和制作蜜蜂或者树木或者蝴蝶分析仪等。木工机在工作的时候需要能量，你可以直接把GT的线缆或者电池盒连接到机器上，或者制造一些林业MOD、铁路MOD、建筑MOD立面的RF引擎。
 
 #Quest_579.Molten redstone?
 gtnh.quest579.name=融化红石?
 gtnh.quest579.desc=你听说有些配方需要熔融红石，而得到熔融红石的方法就是使用流体提取机。好的！让我们来制作一台。
 
 #Quest_580.Thermionic fabricator
-gtnh.quest580.name=Thermionic fabricator
-gtnh.quest580.desc=The thermionic fabricator is used to craft electron tubes and stained glass. It requires redstone flux (RF) energy to run. It is your first machine which is made in the carpenter. Once warmed up, it needs to maintain a certain heat level to operate. The amount of power supplied will determine how much heat will be generated. If you do not supply enough power to maintain the current temperature it will slowly drop.
+gtnh.quest580.name=热电子加工台
+gtnh.quest580.desc=热电子加工台可以制作各种真空管或者彩色玻璃，他需要RF能量才能运行。这是林业MOD的第一台机器，你可以通过木工机来制作出来。这个设备在工作之前需要预热，一旦开始工作就需要保持一定的工作温度来持续运转。而提供的能量多少将决定热电子加工台的工作温度。而如果你没有足够的能量来维持这个温度，那么温度就将慢慢的下降。
 
 #Quest_581.Tubes
-gtnh.quest581.name=Tubes
-gtnh.quest581.desc=Before you can craft your first farm block you need apatite tubes. Make some apatite long rods first (Using a lathe or extruder). You need golden bolts and a red alloy plate.\nPut some glass or sand into your thermionic fabricator and make your first tubes.
+gtnh.quest581.name=磷灰石电子管
+gtnh.quest581.desc=在你制作第一个农场方块之前，你需要一些磷灰石电子管。先做一些磷灰石长杆（先用车床制作磷灰石杆，然后用锤子或者锻造锤制造长杆），然后还需要一些金螺栓、玻璃和红色合金板。然后将这些零件连同沙子放入热电子加工台中。你就会制造出来它了
 
 #Quest_582.Your first multiblock farm
 gtnh.quest582.name=Your first multiblock farm
 gtnh.quest582.desc=The smallest farm you can build requires 36 farm blocks. For water input you need a valve, items go through the hatches and to supply the farm with energy you need a gearbox. With the farm control block you can control which fields of your farm work by applying a redstone signal. Remember to put creosote in the carpenter when crafting the different farm blocks.
 
 #Quest_583.Farm logic
-gtnh.quest583.name=Farm logic
-gtnh.quest583.desc=This chip is optional and more advanced. The farms are working without them too. But if you want to configure your farm you will need one of them.
+gtnh.quest583.name=农场逻辑电路
+gtnh.quest583.desc=这个芯片是可选的。你的农场没有他们也可以正常工作，但是在农场上面配置了他们会让你的农场变得更加的先进。
 
 #Quest_584.Change your farm circuit configuration
-gtnh.quest584.name=Change your farm circuit configuration
-gtnh.quest584.desc=The (forestry) soldering iron is a tool used for attaching electron tubes to circuit boards in order to manipulate how an electrical engine works or to program multiblock farms. As well as upgrading the squeezer or centrifuge.\nOnce electron tubes have been attached to a circuit board they cannot be removed, only replaced. The circuit board is automatically crafted as soon as the basic recipe requirements are met, so it's best practice to first place your electron tubes and then add the circuit board.\n\nThe soldering iron can also be used to remove the circuit board from electrical engines, multiblock farms, squeezers and centrifuges by opening the machine's GUI and left clicking with the soldering iron on the circuit board slot.
+gtnh.quest584.name=更改你的农场电路配置
+gtnh.quest584.desc=林业MOD里面的电烙铁是用来将电子管连接到电路板上面的一种工具，电路板除了能放入林业榨汁机和离心机外，还可以通过在电路板上配置不同的电子管可以改变林业引擎的工作方式或者农场的工作模式。一旦电子管被焊接到电路板上后就就只能被更换而无法被移除。一旦放入电烙铁中的配方满足要求电路板就会自动被生成，因此最好先放入电子管，在检查确认无误后再放入电路板。电烙铁还可以将放入引擎、农场、榨汁机和离心机中的电路板拆卸下来。具体操作方法是打开机器的GUI，拿着电烙铁点击电路板。
 
 #Quest_585.Heating coils
-gtnh.quest585.name=Heating coils
-gtnh.quest585.desc=Your thermionic fabricator needs heating coils to function. So combine some magnetized (requires polarizer) steel rods with some copper wire and make some.
+gtnh.quest585.name=加热线圈
+gtnh.quest585.desc=你的热电子加工台需要一些零件一遍在工作时提高温度。所以用磁化钢杆和铜线来制作一些加热线圈。
 
 #Quest_586.Welcome to forestry
-gtnh.quest586.name=Welcome to forestry
-gtnh.quest586.desc=Want to make some automated farms or work with bee and tree breeding? Then this is the right chapter for you.
+gtnh.quest586.name=欢迎来玩农业MOD
+gtnh.quest586.desc=你想要做一个自动化的农场、树场或者养殖蜜蜂？那么到这一章就对了！
 
 #Quest_587.Magnetize your rods
 gtnh.quest587.name=Magnetize your rods
 gtnh.quest587.desc=Magnetic steel rods need a polariser to craft. Make a few for your coils.
 
 #Quest_588.Finding Apatite
-gtnh.quest588.name=Finding Apatite
-gtnh.quest588.desc=It's now time to search for some ores. Apatite is the most basic material in Forestry. You can make fertilizer, farm blocks and many other things. The vein is found between Y level 40-60.
+gtnh.quest588.name=找到磷灰石
+gtnh.quest588.desc=现在是寻找一些矿石的时候了。磷灰石是林业MOD中最基础的矿物之一。用磷灰石可以制作肥料、农场方块或者其他很多东西。这种矿物你可以在Y轴40-60这个范围内找到。
 
 #Quest_589.Multiblock farm: Hatch
-gtnh.quest589.name=Multiblock farm: Hatch
-gtnh.quest589.desc=Farm hatch (Pipe connectivity)\n\nYou can supply and extract items from the farm by using farm hatches that are connected to pipe systems. \n\nSupplying items\nThe farm hatch is clever enough to know which item goes where. If an item isn't appropriate for the farm's configuration, the hatch will simply reject it.\n\nExtracting items\nAny item that is harvested by the Multifarm is automatically ejected by the farm hatches into inventories or pipes. Pipes can be used to extract from other sides.
+gtnh.quest589.name=农场出货箱
+gtnh.quest589.desc=你可以通过管道系统与农场出货箱相连接来提取或者输送农场的物品。农场出货箱十分智能，他知道管道输送过来的物品是否符合农场的配置，如果不符合那么农场就会拒绝接受这个物品。而任何由农场收获的物品将会从农场出货箱自动输出至管道或者容器中。管道可以从其他侧面提取物品。
 
 #Quest_590.Multiblock farm: Valve
-gtnh.quest590.name=Multiblock farm: Valve
-gtnh.quest590.desc=Farm valve (Hydration)\n\nSome farms require water for hydration purposes. Although you can do it manually by supplying it through liquid containers (such as cans), you can also automate the process by using farm valves.\n\nBy connecting fluid pipes into the farm valve and supplying water, you can automatically fill the farm's water tank.
+gtnh.quest590.name=农场水阀
+gtnh.quest590.desc=有一些农场里面的作物需要经常补充水分，虽然你可以通过液体容器（如储罐）来手动给你的作物浇水。但是你也可以通过农场水阀来自动化浇水这个过程。通过流体管道将供水系统和农场水阀连接，以便于可以自动给农场水阀补充水分。
 
 #Quest_591.Multiblock farm: Control block
-gtnh.quest591.name=Multiblock farm: Control block
-gtnh.quest591.desc=Farm control\n\nYou can control which fields of your farm work by applying a redstone signal to the control block. You can either shut down the whole farm by applying a redstone signal from top or below or you can disable a specific side by applying a redstone signal on the matching side of the control block.
+gtnh.quest591.name=农场控制盒
+gtnh.quest591.desc=有了农场控制盒你可以通过红石信号来控制你的农场是否工作。在农场控制盒上方或者下方提供一个红石信号将会将关闭整个农场，而从侧面提供信号将仅仅会禁用这一个面。
 
 #Quest_592.Multiblock farm: Gearbox
-gtnh.quest592.name=Multiblock farm: Gearbox
-gtnh.quest592.desc=Farm gearbox (Power)\nTo power your farm and have it automatically harvest crops, you will need at least one farm gearbox.\n\nFarm operations can be hastened with additional gearboxes.\n\nEach farm gearbox requires power. You can use either RF or EU.
+gtnh.quest592.name=农场齿轮箱
+gtnh.quest592.desc=农场齿轮箱可以为你的农场提供动力，让农场可以自动收割庄稼。一个农场至少需要一个农场齿轮箱，你也可以配置额外的农场齿轮箱来提供更多的能量加速农场运转速度。农场齿轮箱需要电力，你可以采用RF能源或者EU能源。
 
 #Quest_593.Farm logic enhanced
-gtnh.quest593.name=Farm logic enhanced
-gtnh.quest593.desc=This chip is optional and more advanced than the basic one. The farms can work without them too. If you want to configure your farm you will need one of them.
+gtnh.quest593.name=中型电子板
+gtnh.quest593.desc=这个芯片也是可选的，它比小型电子版更加的先进。可以提供2个电子管的焊接位置
 
 #Quest_594.Farm logic refined
-gtnh.quest594.name=Farm logic refined
-gtnh.quest594.desc=This chip is optional and more advanced than the enhanced one. The farms are working without them too. If you want to configure your farm even more you will need one of them.
+gtnh.quest594.name=大型电子板
+gtnh.quest594.desc=这个芯片也是可选的，它比中型电子版更加的先进。可以提供3个电子管的焊接位置
 
 #Quest_595.Farm logic intricate
-gtnh.quest595.name=Farm logic intricate
-gtnh.quest595.desc=This chip is optional and more advanced than the refined one. The farms are working without them too. If you want to configure your farm even more you will need one of them.
+gtnh.quest595.name=先进电子板
+gtnh.quest595.desc=这个芯片也是可选的，它比大型电子板更加先进。可以提供4个电子管的焊接位置。
 
 #Quest_596.Upgrade of the upgrade of the...
 gtnh.quest596.name=Upgrade of the upgrade of the...
@@ -3358,8 +3359,8 @@ gtnh.quest838.name=高级电路板
 gtnh.quest838.desc=在下一个阶段，我们需要用到高级电路板。制造它需要不错的集成电路、集成逻辑电路、随机存取、晶体管、精制琥珀金线缆和铜螺栓。
 
 #Quest_839.Handle tiny piles like a K1ng
-gtnh.quest839.name=Handle tiny piles like a K1ng
-gtnh.quest839.desc=你是不是很讨厌手动压缩这些小撮的各种粉末？好，让我来给你们演示一下如何让这种工作实现自动化。使用一种类型的过滤器和物品缓存器（LV或者HV的都可以）和打包器，这样就能让您摆脱吧合成小撮粉末的过程了。	
+gtnh.quest839.name=自动化处理小撮的粉末
+gtnh.quest839.desc=你是不是很讨厌手动压缩这些小撮的各种粉末？好，让我来给你们演示一下如何让这种工作实现自动化。使用一种类型的过滤器和物品缓存器（LV或者HV的都可以）和打包器，这样就能让您摆脱合成小撮粉末的工作了。	
 
 #Quest_840.Butane and Propane
 gtnh.quest840.name=丁烷和丙烷（Butane and Propane）
@@ -3722,16 +3723,16 @@ gtnh.quest929.name=Blood Altar Tier 6
 gtnh.quest929.desc=The highest tier of the blood altar is tier 6. You need pillars of blood-soaked ichorium 7 blocks high and on top the crystal cluster blocks out of demon souls shards.
 
 #Quest_930.Auto Mining
-gtnh.quest930.name=自动采矿机
-gtnh.quest930.desc=LV时代的自动采矿设备。所以这台漂亮的机器可以在你面前帮你挖出矿石。在机器的GUI的左侧防止两组挖矿管道。 这个设备需要32EU的功率。 使用8V的太阳能板就能让他工作，(With a 8 V Solar Pannel it works 4 times slover不知道什么意思). 这个设备会以自己为中心在16格的范围内搜索矿石。
+gtnh.quest930.name=LV自动采矿机
+gtnh.quest930.desc=LV时代的自动采矿设备。所以这台漂亮的机器可以在你面前帮你挖出矿石。在机器的GUI的左侧放置两组挖矿管道。 这个设备需要32EU的功率。 使用8V的太阳能板就能让他工作，(With a 8 V Solar Pannel it works 4 times slover不知道什么意思). 这个设备会以自己为中心在16格的范围内搜索矿石。
 
 #Quest_931.Auto Mining Mv
-gtnh.quest931.name=Auto Mining Mv
-gtnh.quest931.desc=The mv miner will find ores fore you and be better then the lv miner. Place up to two stacks of mining pipes in the right slots. This miner need 128 eu to work. The Miner searchen ores in a 24 block radius and works two times faster then the lv variant.
+gtnh.quest931.name=MV自动采矿机
+gtnh.quest931.desc=MV采矿机同样可以帮助你挖出地下的矿石，而且做得更好。同样，在机器的GUI的左侧放置两组挖矿管道。MV采矿机需要128EU/T的能源才能工作。它可以在24格的范围内搜索矿石，并且可以比LV级别的采矿机速度快上2倍。
 
 #Quest_932.Auto Mining Hv
-gtnh.quest932.name=Auto Mining Hv
-gtnh.quest932.desc=The mv miner will find ores fore you and be better then the lv miner. Place up to two stacks of mining pipes in the right slots. This miner need 512 eu to work. The Miner searchen ores in a 32 block radius or two chuncks and works two times faster then the mv variant.
+gtnh.quest932.name=HV自动采矿机
+gtnh.quest932.desc=具体情况和LV和MV的自动采矿机差不多。它可以在32格范围内搜索矿石，并且比HV的自动采矿机还要快上两倍！
 
 #Quest_933.Power of the Sun
 gtnh.quest933.name=太阳能
@@ -3754,12 +3755,12 @@ gtnh.quest937.name=Power of the Sun 1x1 LV
 gtnh.quest937.desc=Put those 32 eu pannel on a block make em placeable. Using a mv assembler to combining a UL hull with the pannel.
 
 #Quest_938.Automated Sticky Resin Farmer
-gtnh.quest938.name=Automated Sticky Resin Farmer
-gtnh.quest938.desc=If you are tired of crafting tons of tree taps, how about a machine that uses power but never breaks? Let's craft an electric tree tap.
+gtnh.quest938.name=电动树脂提取器
+gtnh.quest938.desc=如果你厌倦了制作大量的木质龙头来提取树脂，那么一台使用电力永远不会损坏的工具一定十分和你心意。让我们来制作一个电动树脂提取器吧！
 
 #Quest_939.Automated Farmer
-gtnh.quest939.name=Automated Farmer
-gtnh.quest939.desc=Your hoe must be getting worn out by now. Why not craft an electric one which never breaks.
+gtnh.quest939.name=电动锄
+gtnh.quest939.desc=你的锄头现在肯定已经磨坏了！为什么不制作一个永远不会损坏的电动锄头呢？（有不稳定的锄头不知道这个东西有什么存在的意义23333）
 
 #Quest_940.Cleanroom
 gtnh.quest940.name=Cleanroom
@@ -3798,8 +3799,8 @@ gtnh.quest948.name=Better than iron
 gtnh.quest948.desc=Wrought Iron will become very soon more important when you have a bit steel and able to build high pressure steam machines. The material is much harder then iron and you can make better tools with it too.\nTo make wrought Iron you need a furnace to smelt iron ingots down to wrough iron nuggets. With the compressor you can compress the nuggets to ingots.\n\nHint:\nCrushed or purified oredust can be smelt to iron nuggets directly.
 
 #Quest_949.Seed Bags
-gtnh.quest949.name=Seed Bags
-gtnh.quest949.desc=Finding some special "pams harvest craft" gardens can be very difficult. With your farmer coins you can buy some gardenbags.
+gtnh.quest949.name=种子袋
+gtnh.quest949.desc=寻找一些特殊的潘马斯的果园十分困难，不过你可以用农民硬币来购买一点！
 
 ##################################Line##################################
 
