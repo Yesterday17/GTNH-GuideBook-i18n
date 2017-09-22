@@ -1763,48 +1763,48 @@ gtnh.quest439.name=Steam > Tier 2
 gtnh.quest439.desc=Three steam backpacks give a better one = Tier 2.
 
 #Quest_440.Oak trees are not apple trees
-gtnh.quest440.name=Oak trees are not apple trees
-gtnh.quest440.desc=Oak trees which give apples?  Who the hell added this to minecraft? You find a way of combining an oak sapling and an apple to get an apple tree sapling. Try to plant one to get a permanent source of food.
+gtnh.quest440.name=橡树不是苹果树
+gtnh.quest440.desc=有苹果的橡树？到底是谁把他加进来的？你可以找到一种方法来吧苹果和橡树树苗结合成苹果树苗。试着种植一些苹果树来获得永久的食物来源。
 
 #Quest_441.Basic > Steam
 gtnh.quest441.name=Basic > Steam
 gtnh.quest441.desc=Three basic lootbags give a better one = Steam.
 
 #Quest_442."Backed" potatoes
-gtnh.quest442.name="Backed" potatoes
-gtnh.quest442.desc=Eating raw potatoes isn't that healthy, as you might have noticed. Some potatoes are green and poisonous already. After you get a furnace you can make delicious baked potatoes as another food alternative. Put a baked potato on a stick to make it even more delicious.
+gtnh.quest442.name=土豆的三种吃法
+gtnh.quest442.desc=生吃土豆是不健康的！你可能已经注意到了。有些土豆又绿又有毒。如果你有一个炉子，你可以做美味的烤土豆作为另一种食物替代品。把烤土豆放在一根棍子上，它将更加美味可口。
 
 #Quest_443.Tier 2 > Tier 3
 gtnh.quest443.name=Tier 2 > Tier 3
 gtnh.quest443.desc=Three Tier 2 backpacks give a better one = Tier 3.
 
 #Quest_444.Soft mallet adventure
-gtnh.quest444.name=Soft mallet adventure
-gtnh.quest444.desc=You now have some melon slices or pumpkins but what can you do with them? Well just eat them or... use a mallet to get some seeds... OK, let's craft one. Perhaps you can use this mallet for some other things too.
+gtnh.quest444.name=软锤大冒险！
+gtnh.quest444.desc=你现在有一些西瓜和南瓜。但是你能用他们做些什么？除了吃……还可以砸碎获得一些种子！好让我们做一个软锤，这个工具以后可能还能用来做点别的事情！
 
 #Quest_445.Tier 3 > Tier 4
 gtnh.quest445.name=Tier 3 > Tier 4
 gtnh.quest445.desc=Three Tier 3 backpacks give a better one = Tier 4
 
 #Quest_446.Shields UP
-gtnh.quest446.name=Shields UP
-gtnh.quest446.desc=With a sword in one hand, what can you do with the other? Right, you need a shield. Let's make one.
+gtnh.quest446.name=给我来个盾牌
+gtnh.quest446.desc=一只手拿着剑，你能用另一只手做什么？对，你需要一个盾牌。让我们做一个。
 
 #Quest_447.Tier 4 > Tier 5
 gtnh.quest447.name=Tier 4 > Tier 5
 gtnh.quest447.desc=Three Tier 4 backpacks give a better one = Tier 5.
 
 #Quest_448.Shield ppdate
-gtnh.quest448.name=Shield ppdate
-gtnh.quest448.desc=Your wooden shield is very weak. So you look for a better one. Looks like you need some leather, so go and find some cows.
+gtnh.quest448.name=皮盾
+gtnh.quest448.desc=你的木盾很弱。所以你换一个更好更坚固的皮质盾牌。因此需要一些皮革，所以去找一些牛吧。
 
 #Quest_449.Tier 5 > Tier 6
 gtnh.quest449.name=Tier 5 > Tier 6
 gtnh.quest449.desc=Three Tier 5 backpacks give a better one = Tier 6.
 
 #Quest_450.Your first long range weapon
-gtnh.quest450.name=Your first long range weapon
-gtnh.quest450.desc=Since you can't make any vanilla bow before LV and Tinkers weapons are not in this Tier you find a way to make a spear out of sticks, leather and a string. Get one because some infernal monsters are easier to kill with a long range weapon.
+gtnh.quest450.name=你的第一个远程武器
+gtnh.quest450.desc=在这一层你没办法做任何的LV等级的弓箭或者是匠魂的远程武器。不过你找到了一种用木棍、皮革和线做成长矛的方法。试着做一个吧，因为有的精英怪可能用远程武器会好对付一些。
 
 #Quest_451.Trigger LoC
 gtnh.quest451.name=Trigger LoC
@@ -1879,12 +1879,12 @@ gtnh.quest468.name=Trigger Tt
 gtnh.quest468.desc=Triggers if you get Thaumite Nuggets.
 
 #Quest_469.Collecting some berries
-gtnh.quest469.name=Collecting some berries
-gtnh.quest469.desc=Are you now waiting for the carrots to grow? Go and find some berry bushes and berries. The berries are a good source of food and you can put these bushes around your house to make a wall. It should provide a good protection against all those monsters that want to come into your house and kill you.
+gtnh.quest469.name=收集一些浆果
+gtnh.quest469.desc=你现在还在等着胡萝卜长大么？出去找一些灌木和浆果吧！浆果是很好的食物来源。并且你可以吧这些灌木围在你的房子周围做一堵墙，这可以防止那些想进入你的房子并且向杀死你的怪物们。
 
 #Quest_470.Berry medley
-gtnh.quest470.name=Berry medley
-gtnh.quest470.desc=Hmmm... what can you do with all those berries? Just eating? You will see that they have a very low saturation Level. Let's plant the new berry bushes and mix the berries to make some better food.
+gtnh.quest470.name=什锦莓
+gtnh.quest470.desc=恩……这些浆果能做什么呢？直接吃掉？可能你会发现浆果提供的饱食度很低，那么让我们种植一些不同种类的浆果丛，然后把他们制作成什锦梅吧！
 
 #Quest_471.Food variants
 gtnh.quest471.name=Food variants
@@ -1939,8 +1939,8 @@ gtnh.quest483.name=Gardener
 gtnh.quest483.desc=If you are wondering: Why do I never get seeds when destroying grass? You are right. Try to work with your new mattock on the grass blocks that do not have water anywhere nearby to find some seeds.
 
 #Quest_484.Can you hear the carrots grow?
-gtnh.quest484.name=Can you hear the carrots grow?
-gtnh.quest484.desc=Tired of waiting since your carrots grow sooooo slow... ?\nWell I got an idea, bone meal will help you grow food in seconds. Ok, chop down some trees and I will trade you some bone meal.
+gtnh.quest484.name=你听到胡萝卜成熟的声音了么？
+gtnh.quest484.desc=你已经厌倦了等待胡萝卜成熟的漫长的过程？噢！那么我有一个注意。骨粉这种东西会帮助你的作物在几秒钟就成熟。好吧砍一些树木我给你换一点骨粉。
 
 #Quest_485.You need MOOOOOOORE wood
 gtnh.quest485.name=You need MOOOOOOORE wood
@@ -3787,8 +3787,8 @@ gtnh.quest945.name=Chad a better way to make Paper
 gtnh.quest945.desc=Making paper out of wood pulp and water can be tedious and difficult. Why not using some sugar cane macerate it down to chad and press it with two stone plates to paper? Later on you can use the chemical bath for a even better ratio.
 
 #Quest_946.Baboo fence
-gtnh.quest946.name=Baboo fence
-gtnh.quest946.desc=Maybe you are lucky and start in a bomboo wood. Bamboo is very usefull the trees growing realy fast and when you place bomboo sticks it will grow and protec your base behind a 3 bocks high wall. Alternative you can use berry bushe too. 
+gtnh.quest946.name=竹子围栏（Baboo fence）
+gtnh.quest946.desc=如果在你出生的附近发现了竹子那么你很幸运。竹子是非常有用并且生长很快的木材。（Bamboo is very usefull the trees growing realy fast and when you place bomboo sticks it will grow and protec your base behind a 3 bocks high wall. Alternative you can use berry bushe too) 
 
 #Quest_947.Punji Sticks
 gtnh.quest947.name=Punji Sticks
