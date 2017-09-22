@@ -3350,16 +3350,16 @@ gtnh.quest836.name=砷化镓
 gtnh.quest836.desc=二极管需要砷化镓，你可能想知道在游戏早期要如何获得砷化镓。 \n你可以在热能离心机中离心粉碎的锌矿石来获得镓。 你能在主世界或者下届Y轴80-210这个范围内找到贫瘠的锌矿石，从而得到粉碎的锌矿, 你最好带着匠魂的稿子，并且在稿子上面附魔一个时运从而增加产量。\n在下界Y轴5-85的范围内你能找到贫瘠的雄黄矿石。使用离心机离心雄黄粉。\n吧镓粉和砷粉在搅拌机中混合在一起，你就得到砷化镓粉末了。
 
 #Quest_837.ILC and RAM
-gtnh.quest837.name=ILC and RAM
-gtnh.quest837.desc=Advanced circuits need itegrated logic circuits and random access memory chips.\nYou can get those by cutting the ILC and RAM wafers.
+gtnh.quest837.name=集成逻辑电路和随机存取芯片
+gtnh.quest837.desc=先进的电路板需要集成逻辑电路和随机存取芯片，你可以通过切割集成逻辑电路晶元和随机存取芯片晶元来获得他们
 
 #Quest_838.Advanced Circuits
-gtnh.quest838.name=Advanced Circuits
-gtnh.quest838.desc=For the next tier we need advanced circuits. To make an advanced circuit, you need good integrated circuits, RAM, an ILC and transistors.
+gtnh.quest838.name=高级电路板
+gtnh.quest838.desc=在下一个阶段，我们需要用到高级电路板。制造它需要不错的集成电路、集成逻辑电路、随机存取、晶体管、精制琥珀金线缆和铜螺栓。
 
 #Quest_839.Handle tiny piles like a K1ng
 gtnh.quest839.name=Handle tiny piles like a K1ng
-gtnh.quest839.desc=Don't you hate to manually compress all those tiny piles ? Well, let me show you how to automate that. A combination of typefilter, chest buffer (or super buffer in HV) and packager frees you from that annoying task. The chestbuffer can hold up to 9 stacks of tiny piles and the super buffer can hold 256 stacks of tiny dusts, which is more than enough. You can set its mode with a screwdriver on the output side. Set it to 9 to export 9 tiny piles at a time and let the packager compress these into regular dusts.
+gtnh.quest839.desc=你是不是很讨厌手动压缩这些小撮的各种粉末？好，让我来给你们演示一下如何让这种工作实现自动化。使用一种类型的过滤器和物品缓存器（LV或者HV的都可以）和打包器，这样就能让您摆脱吧合成小撮粉末的过程了。	
 
 #Quest_840.Butane and Propane
 gtnh.quest840.name=丁烷和丙烷（Butane and Propane）
@@ -3734,16 +3734,16 @@ gtnh.quest932.name=Auto Mining Hv
 gtnh.quest932.desc=The mv miner will find ores fore you and be better then the lv miner. Place up to two stacks of mining pipes in the right slots. This miner need 512 eu to work. The Miner searchen ores in a 32 block radius or two chuncks and works two times faster then the mv variant.
 
 #Quest_933.Power of the Sun
-gtnh.quest933.name=Power of the Sun
-gtnh.quest933.desc=Now its time to investigate in some rgenerative engery. Well let's start with solarpannels. The lowest one only give 1 eu/t. Most gt machine can use them as covers.
+gtnh.quest933.name=太阳能
+gtnh.quest933.desc=现在我们应该研究一些别的可再生能源了。让我们从太阳能开始，最低等级的太阳能板发电量是1EU/T。这些太阳能板可以作为大部分格雷科技的覆盖版使用，来让这些机器从太阳中获取能源，
 
 #Quest_934.Power of the Sun 8V
-gtnh.quest934.name=Power of the Sun 8V
-gtnh.quest934.desc=Next  solarpannel you can make is the ULV one. It gives  8 eu/t. Most gt machine can use them as covers.
+gtnh.quest934.name=8V太阳能板
+gtnh.quest934.desc=下一个等级的太阳能板等级是ULV级，他们可以提供8EU/T的能源。同样他们也可以作为大部分格雷机器的覆盖版使用。
 
 #Quest_935.Power of the Sun 1x1
 gtnh.quest935.name=Power of the Sun 1x1
-gtnh.quest935.desc=Put those 1 eu pannel on a block make em placeable. Using a mv assembler to combining a ULV hull with the pannel.
+gtnh.quest935.desc=把一块基础太阳能板和一个ULV机器方块放到MV级别组装机中，组装机将会将他们组装为一个ULV等级的太阳能发电机。
 
 #Quest_936.Power of the Sun at Lv Level
 gtnh.quest936.name=Power of the Sun at Lv Level
