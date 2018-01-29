@@ -16,7 +16,7 @@ Finally, download the resource pack and put it to the `resourcepacks` directory 
 <br />
 
 ## For Updates
-The project if for version 1.4.1.1, and it's greatly possible that it will update to newer versions. At that time, perhaps the old translation would have somewhere wrong. I'm trying to prevent it, so I'm working on a script to generate standard lang files as well as change the file `DefaultQuests.json` together. The script is available in this repository too, and i would update it as soon as possible to make it available for the next update.<br />
+The project if for version 2.0.2.7, and it's greatly possible that it will update to newer versions. At that time, perhaps the old translation would have somewhere wrong. I'm working on it, trying to rearrange the order of the columns to avoid this problem, but it's far from accomplished.<br />
 
 <br />
 

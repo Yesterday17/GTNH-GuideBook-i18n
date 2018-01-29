@@ -1,10 +1,17 @@
-# GTNH.js 使用指南
-1.进入[JSZip](https://stuk.github.io/jszip/)的首页<br />
-2.F12打开控制台<br />
-3.将GTNH.js的内容粘贴进控制台内<br />
-4.输入`parse("你所需要的版本", true, true)`获得`en_US.lang`和覆盖用文件，或输入`parse(true, false)`获得`result.lang`(白版用于汉化的文件)<br />
+# Guide for GTNH.js
+1.Enter the mainpage of [JSZip](https://stuk.github.io/jszip/).<br />
+2.Press F12 to open the console.<br />
+3.Copy the content of GTNH.js to the console and press Enter.<br />
+4.Type `parse("The version you want to work on.", true, true)` to get `en_US.lang` and the json file to replace the original one, or input `parse(true, false)` to get `result.lang`(An empty file which only contains "xxx.xxx.xxx=", waiting for translation).<br />
 
 <br /><br />
-## 更新日志
-2017.7.30 更新1.1.0 更新版本机制，补全更新功能中……
-2017.6.8 发布1.0.0，勉强能用了……
+##About Update
+1.Enter the mainpage of [JSZip](https://stuk.github.io/jszip/).<br />
+2.Press F12 to open the console.<br />
+3.Copy the content of GTNH.js to the console and press Enter.<br />
+4.Type `update("old_version", "new_version")` to get the comparing report, which can help you reduce your work.<br />
+
+<br /><br />
+## Updates
+2017.7.30 Published 1.1.0 Added version so that you can choose the right version of the modpack.
+2017.6.8 1.0.0 Published.

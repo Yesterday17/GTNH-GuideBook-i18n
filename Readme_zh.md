@@ -18,8 +18,8 @@
 <br />
 
 ## 关于升级
-&emsp;&emsp;目前该项目适配的版本为1.4.1.1，但这个模组包很有可能继续更新下去。<br />
-&emsp;&emsp;At that time, perhaps the old translation would have somewhere wrong. I'm trying to prevent it, so I'm working on a script to generate standard lang files as well as change the file `DefaultQuests.json` together. The script is available in this repository too, and i would update it as soon as possible to make it available for the next update.<br />
+&emsp;&emsp;目前该项目适配的版本为2.0.2.7，但这个模组包很有可能继续更新下去。<br />
+&emsp;&emsp;The project if for version 2.0.2.7, and it's greatly possible that it will update to newer versions. At that time, perhaps the old translation would have somewhere wrong. I'm working on it, trying to rearrange the order of the columns to avoid this problem, but it's far from accomplished.<br />
 &emsp;&emsp;(自己写的英文懒得翻了23333)<br />
 
 <br />
