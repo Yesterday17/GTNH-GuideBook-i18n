@@ -5,7 +5,7 @@
 4.输入`parse("你所需要的版本", true)`获得`en_US.lang`和覆盖用文件，或输入`parse(true, false)`获得`result.lang`(白版用于汉化的文件)<br />
 
 <br /><br />
-##升级相关
+## 升级相关
 1.进入[JSZip](https://stuk.github.io/jszip/)的首页<br />
 2.F12打开控制台<br />
 3.将GTNH.js的内容粘贴进控制台内<br />

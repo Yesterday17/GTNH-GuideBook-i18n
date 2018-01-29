@@ -5,7 +5,7 @@
 4.Type `parse("The version you want to work on.", true, true)` to get `en_US.lang` and the json file to replace the original one, or input `parse(true, false)` to get `result.lang`(An empty file which only contains "xxx.xxx.xxx=", waiting for translation).<br />
 
 <br /><br />
-##About Update
+## About Update
 1.Enter the mainpage of [JSZip](https://stuk.github.io/jszip/).<br />
 2.Press F12 to open the console.<br />
 3.Copy the content of GTNH.js to the console and press Enter.<br />
