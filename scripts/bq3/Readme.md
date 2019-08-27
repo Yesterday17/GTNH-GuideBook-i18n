@@ -9,6 +9,8 @@ The script works both in browsers and under nodejs environment. Though I recomme
 1. Copy `index.js` and paste its content in browser console.
 2. Follow the following **steps** and **don't** execute all the code at a time!
 
+**Notice: Due to the security policy of GitHub, you cannot run this script in the console of GitHub. You can open an empty page to execute it.**
+
 ```js
 // you can get en_US.lang printed in your console
 // you should copy it and create a file to paste it
