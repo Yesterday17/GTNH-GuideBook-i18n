@@ -12,7 +12,7 @@ The script works both in browsers and under nodejs environment. Though I recomme
 ```js
 // you can get en_US.lang printed in your console
 // you should copy it and create a file to paste it
-db_p = initQuestDatabase('master').then(db => {
+db_p = init('master').then(db => {
   console.log(db.genLangFile(false))
 })
 
