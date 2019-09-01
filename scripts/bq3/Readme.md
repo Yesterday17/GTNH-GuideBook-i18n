@@ -16,6 +16,7 @@ The script works both in browsers and under nodejs environment. Though I recomme
 // you should copy it and create a file to paste it
 db_p = init('master').then(db => {
   console.log(db.genLangFile(false))
+  return db;
 })
 
 // then you can get the blank lang file
