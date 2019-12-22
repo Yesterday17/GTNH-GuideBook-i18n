@@ -128,8 +128,8 @@ class QuestDatabaseV1 {
       const desc = this._getQuestLineDesc(line).replace(/\n/g, '\\n')
 
       lang += `# QuestLine.${id} - ${name}\n`
-      lang += `gtnh.line#.name=${blank ? '' : name}\n`
-      lang += `gtnh.line#.desc=${blank ? '' : desc}\n`
+      lang += `gtnh.line${id}.name=${blank ? '' : name}\n`
+      lang += `gtnh.line${id}.desc=${blank ? '' : desc}\n`
       lang += '\n'
     })
 
